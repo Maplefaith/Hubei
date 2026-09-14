@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "tasks": [
+    {
+      "day": 1,
+      "view": 1,
+      "page": "day-1-1.html",
+      "png": "day-1-1.png",
+      "caption": "第1天 · 总览",
+      "stop_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "day_fingerprint": "f58d03a39dee58a95d0f4b6c61dec84e49139c567a8f7c0cadce64d03bde68fc"
+    },
+    {
+      "day": 1,
+      "view": 2,
+      "page": "day-1-2.html",
+      "png": "day-1-2.png",
+      "caption": "第1天 · 局部 1",
+      "stop_numbers": [
+        1
+      ],
+      "day_fingerprint": "f58d03a39dee58a95d0f4b6c61dec84e49139c567a8f7c0cadce64d03bde68fc"
+    },
+    {
+      "day": 1,
+      "view": 3,
+      "page": "day-1-3.html",
+      "png": "day-1-3.png",
+      "caption": "第1天 · 局部 2",
+      "stop_numbers": [
+        2
+      ],
+      "day_fingerprint": "f58d03a39dee58a95d0f4b6c61dec84e49139c567a8f7c0cadce64d03bde68fc"
+    },
+    {
+      "day": 1,
+      "view": 4,
+      "page": "day-1-4.html",
+      "png": "day-1-4.png",
+      "caption": "第1天 · 局部 3",
+      "stop_numbers": [
+        3
+      ],
+      "day_fingerprint": "f58d03a39dee58a95d0f4b6c61dec84e49139c567a8f7c0cadce64d03bde68fc"
+    },
+    {
+      "day": 1,
+      "view": 5,
+      "page": "day-1-5.html",
+      "png": "day-1-5.png",
+      "caption": "第1天 · 局部 4",
+      "stop_numbers": [
+        4,
+        5
+      ],
+      "day_fingerprint": "f58d03a39dee58a95d0f4b6c61dec84e49139c567a8f7c0cadce64d03bde68fc"
+    },
+    {
+      "day": 2,
+      "view": 1,
+      "page": "day-2-1.html",
+      "png": "day-2-1.png",
+      "caption": "第2天 · 总览",
+      "stop_numbers": [
+        1,
+        2,
+        3
+      ],
+      "day_fingerprint": "c8df153ad563cb347e5d9396569234548b51e66a7a452b9292f47b54418ba5ee"
+    },
+    {
+      "day": 2,
+      "view": 2,
+      "page": "day-2-2.html",
+      "png": "day-2-2.png",
+      "caption": "第2天 · 局部 1",
+      "stop_numbers": [
+        1
+      ],
+      "day_fingerprint": "c8df153ad563cb347e5d9396569234548b51e66a7a452b9292f47b54418ba5ee"
+    },
+    {
+      "day": 2,
+      "view": 3,
+      "page": "day-2-3.html",
+      "png": "day-2-3.png",
+      "caption": "第2天 · 局部 2",
+      "stop_numbers": [
+        2
+      ],
+      "day_fingerprint": "c8df153ad563cb347e5d9396569234548b51e66a7a452b9292f47b54418ba5ee"
+    },
+    {
+      "day": 2,
+      "view": 4,
+      "page": "day-2-4.html",
+      "png": "day-2-4.png",
+      "caption": "第2天 · 局部 3",
+      "stop_numbers": [
+        3
+      ],
+      "day_fingerprint": "c8df153ad563cb347e5d9396569234548b51e66a7a452b9292f47b54418ba5ee"
+    },
+    {
+      "day": 3,
+      "view": 1,
+      "page": "day-3-1.html",
+      "png": "day-3-1.png",
+      "caption": "第3天 · 总览",
+      "stop_numbers": [
+        1,
+        2,
+        3
+      ],
+      "day_fingerprint": "b127e3952b75afa61775173397b600b802842d82d192458ba2a3927e1e7dc69a"
+    },
+    {
+      "day": 3,
+      "view": 2,
+      "page": "day-3-2.html",
+      "png": "day-3-2.png",
+      "caption": "第3天 · 局部 1",
+      "stop_numbers": [
+        1
+      ],
+      "day_fingerprint": "b127e3952b75afa61775173397b600b802842d82d192458ba2a3927e1e7dc69a"
+    },
+    {
+      "day": 3,
+      "view": 3,
+      "page": "day-3-3.html",
+      "png": "day-3-3.png",
+      "caption": "第3天 · 局部 2",
+      "stop_numbers": [
+        2
+      ],
+      "day_fingerprint": "b127e3952b75afa61775173397b600b802842d82d192458ba2a3927e1e7dc69a"
+    },
+    {
+      "day": 3,
+      "view": 4,
+      "page": "day-3-4.html",
+      "png": "day-3-4.png",
+      "caption": "第3天 · 局部 3",
+      "stop_numbers": [
+        3
+      ],
+      "day_fingerprint": "b127e3952b75afa61775173397b600b802842d82d192458ba2a3927e1e7dc69a"
+    },
+    {
+      "day": 4,
+      "view": 1,
+      "page": "day-4-1.html",
+      "png": "day-4-1.png",
+      "caption": "第4天 · 总览",
+      "stop_numbers": [
+        1,
+        2,
+        3
+      ],
+      "day_fingerprint": "923c5a3d1fba3fd35c0069bd1c541c2131c8a7dd8109de133fa0606d2c69d978"
+    },
+    {
+      "day": 4,
+      "view": 2,
+      "page": "day-4-2.html",
+      "png": "day-4-2.png",
+      "caption": "第4天 · 局部 1",
+      "stop_numbers": [
+        1
+      ],
+      "day_fingerprint": "923c5a3d1fba3fd35c0069bd1c541c2131c8a7dd8109de133fa0606d2c69d978"
+    },
+    {
+      "day": 4,
+      "view": 3,
+      "page": "day-4-3.html",
+      "png": "day-4-3.png",
+      "caption": "第4天 · 局部 2",
+      "stop_numbers": [
+        2
+      ],
+      "day_fingerprint": "923c5a3d1fba3fd35c0069bd1c541c2131c8a7dd8109de133fa0606d2c69d978"
+    },
+    {
+      "day": 4,
+      "view": 4,
+      "page": "day-4-4.html",
+      "png": "day-4-4.png",
+      "caption": "第4天 · 局部 3",
+      "stop_numbers": [
+        3
+      ],
+      "day_fingerprint": "923c5a3d1fba3fd35c0069bd1c541c2131c8a7dd8109de133fa0606d2c69d978"
+    },
+    {
+      "day": 5,
+      "view": 1,
+      "page": "day-5-1.html",
+      "png": "day-5-1.png",
+      "caption": "第5天 · 总览",
+      "stop_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "day_fingerprint": "e0fc7a9b981fa33175507b273fb21e878771647de7172d63b735b82f56a8f1ae"
+    },
+    {
+      "day": 5,
+      "view": 2,
+      "page": "day-5-2.html",
+      "png": "day-5-2.png",
+      "caption": "第5天 · 局部 1",
+      "stop_numbers": [
+        1
+      ],
+      "day_fingerprint": "e0fc7a9b981fa33175507b273fb21e878771647de7172d63b735b82f56a8f1ae"
+    },
+    {
+      "day": 5,
+      "view": 3,
+      "page": "day-5-3.html",
+      "png": "day-5-3.png",
+      "caption": "第5天 · 局部 2",
+      "stop_numbers": [
+        2,
+        3
+      ],
+      "day_fingerprint": "e0fc7a9b981fa33175507b273fb21e878771647de7172d63b735b82f56a8f1ae"
+    },
+    {
+      "day": 5,
+      "view": 4,
+      "page": "day-5-4.html",
+      "png": "day-5-4.png",
+      "caption": "第5天 · 局部 3",
+      "stop_numbers": [
+        4
+      ],
+      "day_fingerprint": "e0fc7a9b981fa33175507b273fb21e878771647de7172d63b735b82f56a8f1ae"
+    },
+    {
+      "day": 6,
+      "view": 1,
+      "page": "day-6-1.html",
+      "png": "day-6-1.png",
+      "caption": "第6天 · 总览",
+      "stop_numbers": [
+        1,
+        2,
+        3
+      ],
+      "day_fingerprint": "2af6c2ef365e4dd216c8187e2ae068d316a7433348ac1598133e4173bcd9a720"
+    },
+    {
+      "day": 6,
+      "view": 2,
+      "page": "day-6-2.html",
+      "png": "day-6-2.png",
+      "caption": "第6天 · 局部 1",
+      "stop_numbers": [
+        1
+      ],
+      "day_fingerprint": "2af6c2ef365e4dd216c8187e2ae068d316a7433348ac1598133e4173bcd9a720"
+    },
+    {
+      "day": 6,
+      "view": 3,
+      "page": "day-6-3.html",
+      "png": "day-6-3.png",
+      "caption": "第6天 · 局部 2",
+      "stop_numbers": [
+        2
+      ],
+      "day_fingerprint": "2af6c2ef365e4dd216c8187e2ae068d316a7433348ac1598133e4173bcd9a720"
+    },
+    {
+      "day": 6,
+      "view": 4,
+      "page": "day-6-4.html",
+      "png": "day-6-4.png",
+      "caption": "第6天 · 局部 3",
+      "stop_numbers": [
+        3
+      ],
+      "day_fingerprint": "2af6c2ef365e4dd216c8187e2ae068d316a7433348ac1598133e4173bcd9a720"
+    },
+    {
+      "day": 7,
+      "view": 1,
+      "page": "day-7-1.html",
+      "png": "day-7-1.png",
+      "caption": "第7天 · 总览",
+      "stop_numbers": [
+        1,
+        2
+      ],
+      "day_fingerprint": "70c3c71f0256bc5c3c1688d12c07d89aa609dae9f03f05dbdab8ea9e936f3086"
+    },
+    {
+      "day": 7,
+      "view": 2,
+      "page": "day-7-2.html",
+      "png": "day-7-2.png",
+      "caption": "第7天 · 局部 1",
+      "stop_numbers": [
+        1
+      ],
+      "day_fingerprint": "70c3c71f0256bc5c3c1688d12c07d89aa609dae9f03f05dbdab8ea9e936f3086"
+    },
+    {
+      "day": 7,
+      "view": 3,
+      "page": "day-7-3.html",
+      "png": "day-7-3.png",
+      "caption": "第7天 · 局部 2",
+      "stop_numbers": [
+        2
+      ],
+      "day_fingerprint": "70c3c71f0256bc5c3c1688d12c07d89aa609dae9f03f05dbdab8ea9e936f3086"
+    }
+  ],
+  "width": 1400,
+  "height": 1100,
+  "device_scale_factor": 1
+}

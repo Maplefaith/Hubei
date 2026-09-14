@@ -1,0 +1,447 @@
+{
+  "sights": [
+    {
+      "id": "huanghelou",
+      "type": "sight",
+      "display_name": "黄鹤楼",
+      "local_name": "黄鹤楼",
+      "english_name": "Yellow Crane Tower",
+      "map_query": "武汉黄鹤楼公园",
+      "source_url": "http://wh.bendibao.com/xiuxian/2026211/193837.shtm",
+      "description": "长江南岸蛇山之巅的江南三大名楼之一,五层仿古楼阁,登楼可俯瞰长江大桥与两江交汇。楼内陈列历代黄鹤楼诗文与模型,楼外白云阁、搁笔亭等一并构成公园游线,是武汉行程的第一站首选。",
+      "hours": "日场 08:30-18:00(17:00停止售票,17:20最晚入园);夜场 19:30-22:00(21:30最晚入园,视当期演出安排)",
+      "closed_days": [
+        "全年无休"
+      ],
+      "latitude": 30.5469,
+      "longitude": 114.2969,
+      "coordinate_source": {
+        "url": "https://en.wikipedia.org/wiki/Yellow_Crane_Tower",
+        "note": "维基百科词条标注坐标 30°32′49″N 114°17′49″E,对应黄鹤楼主楼位置",
+        "precision": "building"
+      },
+      "images": [
+        {
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/CN_-_Hubei_-_Wuhan_-_Kranichpagode.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:CN_-_Hubei_-_Wuhan_-_Kranichpagode.jpg",
+          "source_identity_note": "Wikimedia Commons 收录的黄鹤楼实景照片,画面可见楼阁主体与飞檐结构,文件名标注即为武汉黄鹤楼(Kranichpagode 为德语'鹤楼')。",
+          "media_class": "licensed_photo",
+          "original_media_class": "licensed_photo",
+          "visual_subject_type": "place_exterior"
+        }
+      ],
+      "duration_minutes": 120,
+      "scheduled_label": "D1 晚上"
+    },
+    {
+      "id": "changjiang-daqiao",
+      "type": "sight",
+      "display_name": "武汉长江大桥",
+      "local_name": "武汉长江大桥",
+      "english_name": "Wuhan Yangtze River Bridge",
+      "map_query": "武汉长江大桥",
+      "source_url": "https://zh.wikipedia.org/zh-cn/%E6%AD%A6%E6%BC%A2%E9%95%B7%E6%B1%9F%E5%A4%A7%E6%A9%8B",
+      "description": "1957年建成通车的“万里长江第一桥”,连接汉阳龟山与武昌蛇山,是双层公铁两用桥。桥头堡内设有观光电梯与展览,傍晚可在桥头公园或江滩看大桥灯光与长江夜色,与黄鹤楼步行可达,是两江夜游启程前的自然衔接点。",
+      "hours": "全天开放(桥头堡观光区约 08:00-18:00,以现场公告为准)",
+      "closed_days": [
+        "全年无休"
+      ],
+      "latitude": 30.5497,
+      "longitude": 114.2882,
+      "coordinate_source": {
+        "url": "https://en.wikipedia.org/wiki/Wuhan_Yangtze_River_Bridge",
+        "note": "维基百科词条标注坐标 30°32′59″N 114°17′18″E,对应大桥主体位置",
+        "precision": "area"
+      },
+      "images": [
+        {
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Wuhan_Yangtze_River_Bridge.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Wuhan_Yangtze_River_Bridge.jpg",
+          "source_identity_note": "Wikimedia Commons 收录的武汉长江大桥实景照片,画面可见双层公铁两用桥主体结构。",
+          "media_class": "licensed_photo",
+          "original_media_class": "licensed_photo",
+          "visual_subject_type": "place_exterior"
+        }
+      ],
+      "duration_minutes": 45,
+      "scheduled_label": "D1 晚上"
+    },
+    {
+      "id": "hubuxiang",
+      "type": "sight",
+      "display_name": "户部巷",
+      "local_name": "户部巷",
+      "english_name": "Hubu Lane",
+      "map_query": "武汉户部巷",
+      "source_url": "https://zh.wikipedia.org/zh-hant/%E6%88%B7%E9%83%A8%E5%B7%B7",
+      "description": "武昌自由路与民主路之间长约150米的百年老巷,汉味小吃第一巷,聚集热干面、豆皮、面窝、糊汤粉、欢喜坨等三十余种早点与夜宵摊位,与蔡林记、四季美等武汉老字号同巷,是D1晚饭与D2早餐的自然连接点。",
+      "hours": "全天开放,小吃摊位多为 06:30-22:00",
+      "closed_days": [
+        "全年无休"
+      ],
+      "latitude": 30.5486,
+      "longitude": 114.3037,
+      "coordinate_source": {
+        "url": "https://zh.wikipedia.org/zh-hant/%E6%88%B7%E9%83%A8%E5%B7%B7",
+        "note": "维基百科标注户部巷位于武昌自由路与民主路之间,近黄鹤楼东南侧司门口一带,坐标为区域估算",
+        "precision": "area"
+      },
+      "images": [
+        {
+          "download_url": "https://dimg04.c-ctrip.com/images/0zg1p12000icloo8u89A2.jpg",
+          "source_page": "https://you.ctrip.com/sight/wuhan145/50969.html",
+          "source_identity_note": "携程攻略户部巷词条页面的实景首图,画面为小吃街巷实景,来自景点详情页图库。",
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "visual_subject_type": "place_exterior"
+        }
+      ],
+      "duration_minutes": 90,
+      "scheduled_label": "D1 晚上"
+    },
+    {
+      "id": "tanhualin",
+      "type": "sight",
+      "display_name": "昙华林",
+      "local_name": "昙华林",
+      "english_name": "Tanhualin",
+      "map_query": "武汉昙华林历史文化街区",
+      "source_url": "https://zh.wikipedia.org/zh-hans/%E6%98%99%E5%8D%8E%E6%9E%97",
+      "description": "武昌老城区的历史文化街区,晚清教会建筑、老校舍与文艺小店、咖啡馆、涂鸦墙交错分布,巷子密集出片,适合慢走拍照。粮道街小吃(如油饼包烧卖)可作午餐补给。与江汉路相比更偏文艺氛围而非购物,雨天体验会打折扣。",
+      "hours": "街区全天开放;店铺多为 10:00-19:00",
+      "closed_days": [
+        "全年无休"
+      ],
+      "latitude": 30.5516,
+      "longitude": 114.3116,
+      "coordinate_source": {
+        "url": "https://zh.wikipedia.org/zh-hans/%E6%98%99%E5%8D%8E%E6%9E%97",
+        "note": "维基百科词条标注坐标 30°33′5.9″N 114°18′41.62″E",
+        "precision": "area"
+      },
+      "images": [
+        {
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/%E6%98%99%E5%8D%8E%E6%9E%97%E5%B0%8F%E5%AD%A6.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:%E6%98%99%E5%8D%8E%E6%9E%97%E5%B0%8F%E5%AD%A6.jpg",
+          "source_identity_note": "Wikimedia Commons 文件名即为'昙华林小学',画面为昙华林历史文化街区内的实景建筑照片。",
+          "media_class": "licensed_photo",
+          "original_media_class": "licensed_photo",
+          "visual_subject_type": "place_exterior"
+        }
+      ],
+      "duration_minutes": 150,
+      "scheduled_label": "D2 上午 · 可选A(与江汉路二选一)"
+    },
+    {
+      "id": "jianghanlu",
+      "type": "sight",
+      "display_name": "江汉路步行街",
+      "local_name": "江汉路步行街",
+      "english_name": "Jianghan Road Pedestrian Street",
+      "map_query": "武汉江汉路步行街",
+      "source_url": "https://zh.wikipedia.org/zh-cn/%E6%B1%9F%E6%B1%89%E8%B7%AF",
+      "description": "汉口百年商业老街,全长约1550米,汇聚各式近代建筑,被称为“20世纪建筑博物馆”,江汉关钟楼是标志地标。适合购物、拍老建筑,傍晚可顺路走到江滩看灯光秀。与昙华林相比商业氛围更浓、人流更大。",
+      "hours": "全天开放;商铺多为 10:00-22:00",
+      "closed_days": [
+        "全年无休"
+      ],
+      "latitude": 30.5836,
+      "longitude": 114.2887,
+      "coordinate_source": {
+        "url": "https://zh.wikipedia.org/zh-cn/%E6%B1%9F%E6%B1%89%E8%B7%AF",
+        "note": "维基百科标注江汉路步行街位于汉口江汉关至解放大道之间,坐标为街区中段区域估算",
+        "precision": "area"
+      },
+      "images": [
+        {
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/%E6%B1%9F%E6%B1%89%E8%B7%AF%E9%9B%95%E5%A1%91.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:%E6%B1%9F%E6%B1%89%E8%B7%AF%E9%9B%95%E5%A1%91.jpg",
+          "source_identity_note": "Wikimedia Commons 文件名即为'江汉路雕塑',画面为江汉路步行街街道实景与街头雕塑。",
+          "media_class": "licensed_photo",
+          "original_media_class": "licensed_photo",
+          "visual_subject_type": "place_exterior"
+        }
+      ],
+      "duration_minutes": 150,
+      "scheduled_label": "D2 上午 · 可选B(与昙华林二选一)"
+    },
+    {
+      "id": "enshi-canyon-qixingzhai",
+      "type": "sight",
+      "display_name": "恩施大峡谷 · 七星寨",
+      "local_name": "恩施大峡谷七星寨景区",
+      "english_name": "Enshi Grand Canyon, Qixingzhai Area",
+      "map_query": "恩施大峡谷游客中心",
+      "source_url": "https://www.esdaxiagu.com/Ticketing/",
+      "description": "喀斯特峡谷核心区,沿绝壁凌空栈道行走可看云龙河大峡谷深谷绝壁,终点“一炷香”是标志性独柱峰。本次行程只走七星寨绝壁栈道与一炷香观景台,跳过云龙地缝(地缝需额外约2小时且是另一独立门票)。全线徒步强度中等偏高,建议穿防滑徒步鞋。",
+      "hours": "旺季(3-11月)07:30-16:00;淡季 08:00-15:30(售票至16:00)",
+      "closed_days": [
+        "全年无休"
+      ],
+      "latitude": 30.34,
+      "longitude": 109.22,
+      "coordinate_source": {
+        "url": "https://www.esdaxiagu.com/Ticketing/",
+        "note": "景区位于恩施市屯堡乡,恩施市区以西约21公里,本次未做逐一实地坐标核验,标注为屯堡乡区域近似位置",
+        "precision": "area"
+      },
+      "images": [
+        {
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Enshi_grand_canyon_2025_06.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Enshi_grand_canyon_2025_06.jpg",
+          "source_identity_note": "Wikimedia Commons 收录的恩施大峡谷实景照片,画面为喀斯特峡谷绝壁与栈道地貌。",
+          "media_class": "licensed_photo",
+          "original_media_class": "licensed_photo",
+          "visual_subject_type": "landscape"
+        }
+      ],
+      "duration_minutes": 240,
+      "scheduled_label": "D3 全天(上午)"
+    },
+    {
+      "id": "suobuya-stone-forest",
+      "type": "sight",
+      "display_name": "梭布垭石林",
+      "local_name": "梭布垭石林景区",
+      "english_name": "Suobuya Stone Forest",
+      "map_query": "恩施梭布垭石林景区",
+      "source_url": "https://www.dahepiao.com/jingqulvyou1/20200826153903.html",
+      "description": "中国第二大石林,典型奥陶纪喀斯特地貌,石柱、石笋密布形成天然迷宫般的步道,比云南石林更幽深原始。景区距恩施城区车程约1-1.5小时(高德实测),需预留充足往返时间,不宜与恩施大峡谷安排在同一天。",
+      "hours": "4月1日-10月31日 08:00-18:00;11月1日-次年2月28日 08:30-17:00",
+      "closed_days": [
+        "全年无休"
+      ],
+      "latitude": 30.5,
+      "longitude": 109.6,
+      "coordinate_source": {
+        "url": "https://www.dahepiao.com/jingqulvyou1/20200826153903.html",
+        "note": "景区位于恩施市太阳河乡,市区东北约57公里,本次未做逐一实地坐标核验,标注为太阳河乡区域近似位置",
+        "precision": "area"
+      },
+      "images": [
+        {
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Suobuya_Stone_Forest_20240726_161306.jpg/1280px-Suobuya_Stone_Forest_20240726_161306.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Suobuya_Stone_Forest_20240726_161306.jpg",
+          "source_identity_note": "Wikimedia Commons 文件名即为'Suobuya Stone Forest',画面为梭布垭石林喀斯特石柱地貌实景。",
+          "media_class": "licensed_photo",
+          "original_media_class": "licensed_photo",
+          "visual_subject_type": "landscape"
+        }
+      ],
+      "duration_minutes": 210,
+      "scheduled_label": "D4 上午-中午"
+    },
+    {
+      "id": "sanxia-dam",
+      "type": "sight",
+      "display_name": "三峡大坝旅游区(坛子岭)",
+      "local_name": "三峡大坝旅游区",
+      "english_name": "Three Gorges Dam Scenic Area",
+      "map_query": "三峡大坝旅游区",
+      "source_url": "http://yichang.bendibao.com/tour/20231120/19336.shtm",
+      "description": "世界最大水利枢纽工程,坛子岭是俯瞰大坝全貌的最佳观景点,截流纪念园、185观景点可近距离看船闸与泄洪坝段。作为“两坝一峡”游船的岸上延伸部分安排,门票免费但观光车收费,且需实名分时预约入园。",
+      "hours": "全年 08:00-17:00(17:00截止入园)",
+      "closed_days": [
+        "全年无休"
+      ],
+      "latitude": 30.82305,
+      "longitude": 111.00333,
+      "coordinate_source": {
+        "url": "https://www.findlatitudeandlongitude.com/l/Three+Gorges+Dam,+China/3172366/",
+        "note": "坐标源自公开地理坐标数据库,对应三峡大坝坝体位置",
+        "precision": "area"
+      },
+      "images": [
+        {
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/ThreeGorgesDam-China2009.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:ThreeGorgesDam-China2009.jpg",
+          "source_identity_note": "Wikimedia Commons 收录的三峡大坝实景照片,画面为大坝坝体与船闸结构全貌。",
+          "media_class": "licensed_photo",
+          "original_media_class": "licensed_photo",
+          "visual_subject_type": "landscape"
+        }
+      ],
+      "duration_minutes": 150,
+      "scheduled_label": "D5 下午(两坝一峡行程内)"
+    },
+    {
+      "id": "enshi-tusi-city",
+      "type": "sight",
+      "display_name": "恩施土司城",
+      "local_name": "恩施土司城",
+      "english_name": "Enshi Tusi City",
+      "map_query": "恩施土司城",
+      "source_url": "https://baike.baidu.com/item/%E6%81%A9%E6%96%BD%E5%9C%9F%E5%8F%B8%E5%9F%8E",
+      "description": "仿古建造的土家土司文化建筑群,九进堂、白虎雕塑等还原土家族历史建筑风貌,适合对土家文化感兴趣但正式行程排不下时的备选。本次行程未安排,列为可选项。",
+      "hours": "08:30-17:30",
+      "closed_days": [
+        "全年无休"
+      ],
+      "latitude": 30.28,
+      "longitude": 109.47,
+      "coordinate_source": {
+        "url": "https://baike.baidu.com/item/%E6%81%A9%E6%96%BD%E5%9C%9F%E5%8F%B8%E5%9F%8E",
+        "note": "位于恩施市城区西南,坐标为城区近似位置,未做逐一实地核验",
+        "precision": "area"
+      },
+      "images": [
+        {
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/%E6%81%A9%E6%96%BD_%E6%81%A9%E6%96%BD%E5%9C%9F%E5%8F%B8%E5%9F%8E_01.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:%E6%81%A9%E6%96%BD_%E6%81%A9%E6%96%BD%E5%9C%9F%E5%8F%B8%E5%9F%8E_01.jpg",
+          "source_identity_note": "Wikimedia Commons 文件名即为'恩施 恩施土司城 01',画面为土司城仿古建筑群实景。",
+          "media_class": "licensed_photo",
+          "original_media_class": "licensed_photo",
+          "visual_subject_type": "place_exterior"
+        }
+      ],
+      "duration_minutes": 120,
+      "scheduled_label": "可选(未排入本次行程)"
+    }
+  ],
+  "support": [
+    {
+      "id": "wuhan-tianhe-t3",
+      "type": "transport",
+      "display_name": "武汉天河国际机场T3航站楼",
+      "local_name": "武汉天河国际机场T3航站楼",
+      "english_name": "Wuhan Tianhe International Airport T3",
+      "map_query": "武汉天河国际机场T3航站楼",
+      "source_url": "https://www.amap.com/",
+      "description": "武汉两大主要进出城枢纽之一,若D1选择飞机抵达,机场大巴/地铁2号线可直达市区,高德实测机场到黄鹤楼车程约49分钟。",
+      "hours": "全天",
+      "closed_days": [
+        "全年无休"
+      ],
+      "latitude": 30.7838,
+      "longitude": 114.2081,
+      "coordinate_source": {
+        "url": "https://www.amap.com/",
+        "note": "高德地图路线规划中定位的机场T3航站楼位置,区域近似",
+        "precision": "area"
+      },
+      "images": [],
+      "duration_minutes": 0,
+      "scheduled_label": "D1 到达 / D2 出发备选"
+    },
+    {
+      "id": "wuhan-railway-station",
+      "type": "transport",
+      "display_name": "武汉站",
+      "local_name": "武汉站",
+      "english_name": "Wuhan Railway Station",
+      "map_query": "武汉站",
+      "source_url": "https://www.amap.com/",
+      "description": "武汉高铁主站,京广高铁与汉宜动车在此交汇,若D1选择高铁抵达即在此下车,高德实测武汉站到黄鹤楼车程约39分钟。",
+      "hours": "全天",
+      "closed_days": [
+        "全年无休"
+      ],
+      "latitude": 30.6265,
+      "longitude": 114.4327,
+      "coordinate_source": {
+        "url": "https://www.amap.com/",
+        "note": "高德地图路线规划中定位的武汉站位置,区域近似",
+        "precision": "area"
+      },
+      "images": [],
+      "duration_minutes": 0,
+      "scheduled_label": "D1 到达"
+    },
+    {
+      "id": "enshi-railway-station",
+      "type": "transport",
+      "display_name": "恩施站",
+      "local_name": "恩施火车站",
+      "english_name": "Enshi Railway Station",
+      "map_query": "恩施站",
+      "source_url": "https://www.amap.com/",
+      "description": "恩施唯一高铁/动车站,汉宜恩铁路在此设站,是D2晚间抵达恩施与D5离开恩施的枢纽。高德实测恩施站到大峡谷游客中心车程约1小时18分钟,需提前预留接驳时间。",
+      "hours": "全天",
+      "closed_days": [
+        "全年无休"
+      ],
+      "latitude": 30.3128,
+      "longitude": 109.4483,
+      "coordinate_source": {
+        "url": "https://www.amap.com/",
+        "note": "高德地图路线规划中定位的恩施站位置,区域近似",
+        "precision": "area"
+      },
+      "images": [],
+      "duration_minutes": 0,
+      "scheduled_label": "D2 到达 / D5 出发"
+    },
+    {
+      "id": "yichang-east-station",
+      "type": "transport",
+      "display_name": "宜昌东站",
+      "local_name": "宜昌东站",
+      "english_name": "Yichang East Railway Station",
+      "map_query": "宜昌东站",
+      "source_url": "https://www.amap.com/",
+      "description": "宜昌高铁主站,汉宜高铁在此设站,是D5抵达宜昌与D7返程(若选高铁)的枢纽。高德实测宜昌东站到三峡大坝旅游区车程约46分钟,到三峡人家约42分钟,到清江画廊约1小时5分钟。",
+      "hours": "全天",
+      "closed_days": [
+        "全年无休"
+      ],
+      "latitude": 30.6497,
+      "longitude": 111.3419,
+      "coordinate_source": {
+        "url": "https://www.amap.com/",
+        "note": "高德地图路线规划中定位的宜昌东站位置,区域近似",
+        "precision": "area"
+      },
+      "images": [],
+      "duration_minutes": 0,
+      "scheduled_label": "D5 到达 / D7 出发备选"
+    },
+    {
+      "id": "yichang-sanxia-airport",
+      "type": "transport",
+      "display_name": "三峡机场(宜昌)",
+      "local_name": "宜昌三峡机场",
+      "english_name": "Yichang Sanxia Airport",
+      "map_query": "宜昌三峡机场",
+      "source_url": "https://www.amap.com/",
+      "description": "宜昌唯一民用机场,若D7选择飞机返京在此出发,飞行时间约2.1小时,机场距市区/宜昌东站约30分钟车程。",
+      "hours": "全天",
+      "closed_days": [
+        "全年无休"
+      ],
+      "latitude": 30.5556,
+      "longitude": 111.3378,
+      "coordinate_source": {
+        "url": "https://www.amap.com/",
+        "note": "高德地图路线规划中定位的宜昌三峡机场位置,区域近似",
+        "precision": "area"
+      },
+      "images": [],
+      "duration_minutes": 0,
+      "scheduled_label": "D7 出发备选"
+    },
+    {
+      "id": "beijing-return-hub",
+      "type": "transport",
+      "display_name": "北京(返程抵达点)",
+      "local_name": "北京西站/北京首都国际机场",
+      "english_name": "Beijing Arrival Hub",
+      "map_query": "北京西站",
+      "source_url": "https://www.amap.com/",
+      "description": "行程终点,具体到达枢纽视D7选择的高铁(北京西站)或飞机(首都/大兴机场)而定,抵达后即结束本次7天6晚的湖北之旅。",
+      "hours": "全天",
+      "closed_days": [
+        "全年无休"
+      ],
+      "latitude": 39.895,
+      "longitude": 116.322,
+      "coordinate_source": {
+        "url": "https://www.amap.com/",
+        "note": "以北京西站为代表性到达点参考位置,实际以选择的车次/航班到达枢纽为准",
+        "precision": "area"
+      },
+      "images": [],
+      "duration_minutes": 0,
+      "scheduled_label": "D7 抵达"
+    }
+  ]
+}

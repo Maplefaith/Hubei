@@ -1,0 +1,42 @@
+{
+  "experience_mode": "standard",
+  "shopping": [
+    {
+      "title": "武汉城区好店",
+      "subtitle": "商场与店铺",
+      "items": [
+        { "place_id": "zhouheiya-jianghanlu" }
+      ]
+    },
+    {
+      "title": "恩施非遗特产",
+      "subtitle": "店铺与集市",
+      "items": [
+        { "place_id": "enshi-nverchengxiyi" }
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "title": "峡江游船与水岸夜色",
+      "items": [
+        { "place_id": "liangjiang-night-cruise" },
+        { "place_id": "liangba-yixia-cruise" },
+        { "place_id": "qingjiang-gallery" },
+        { "place_id": "sanxia-renjia-half-day" }
+      ]
+    },
+    {
+      "title": "喀斯特秘境",
+      "items": [
+        { "place_id": "luyuanping-canyon" }
+      ]
+    },
+    {
+      "title": "土家夜生活",
+      "items": [
+        { "place_id": "enshi-nverchengs-night" }
+      ]
+    }
+  ]
+}

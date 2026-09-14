@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "flight": {
+    "status": "pending"
+  },
+  "stay": {
+    "status": "pending"
+  },
+  "budget_plan": {
+    "level": "",
+    "total_trip": "",
+    "local_per_person_day": ""
+  },
+  "updated_at": "2026-09-14T09:44:55.464957+00:00"
+}

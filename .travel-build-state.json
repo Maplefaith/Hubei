@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "destination": "武汉-恩施-宜昌",
+  "country": "中国",
+  "start_date": "2026-10-01",
+  "days": 7,
+  "quality_mode": "standard",
+  "status": "in_progress",
+  "flight_decision": "pending",
+  "stay_decision": "pending",
+  "itinerary_gate": {
+    "status": "approved",
+    "user_statement": "那就宜昌回北京，飞机和火车都要给出选择，以及时间和价钱。然后就开始原来的武汉→恩施→宜昌→北京方案试试",
+    "recorded_at": "2026-09-14T09:44:55.465432+00:00"
+  },
+  "stage": "research_in_progress",
+  "next_required_action": "Run research_status.py /Users/maplefaith/Documents/Dr_phase/260828_270117/261001Hubei/hubei-trip, complete its next bounded batch, and repeat until compile_destination_profile.py can run.",
+  "handoff_allowed": false,
+  "final_response_allowed": false,
+  "continuation_required": true,
+  "user_input_required": false,
+  "active_workbench": "/Users/maplefaith/Documents/Dr_phase/260828_270117/261001Hubei/hubei-trip",
+  "skill_root": "/Users/maplefaith/.claude/skills/build-personalized-travel-guide-open-source",
+  "checks": {
+    "index_exists": false,
+    "profile_exists": false,
+    "manifest_exists": false,
+    "adaptation_marker_absent": true,
+    "trip_decisions_recorded": true,
+    "official_render_report": false,
+    "canonical_template_hash_verified": false,
+    "custom_page_builder_detected": true
+  },
+  "evidence": {
+    "research_status": "RESEARCH FILES 1/9 present\nNEXT BATCH — PHASE 2/6\nPHASE is a dependency barrier. Complete each printed canonical pack as one bounded batch; record-level timers are recovery tools only.\n- places-core: 8+ 景点及机场、车站、酒店等支持节点 -> /Users/maplefaith/Documents/Dr_phase/260828_270117/261001Hubei/hubei-trip/research/places/core.json\n  task spec: /Users/maplefaith/Documents/Dr_phase/260828_270117/261001Hubei/hubei-trip/research/tasks/places-core.json\n  validate immediately: /Users/maplefaith/.venvs/travel-guide/bin/python3 /Users/maplefaith/.claude/skills/build-personalized-travel-guide-open-source/scripts/validate_research_pack.py places-core /Users/maplefaith/Documents/Dr_phase/260828_270117/261001Hubei/hubei-trip/research/places/core.json\n- places-shopping: 店铺与伴手礼；默认只为最终视觉短名单配置图片 -> /Users/maplefaith/Documents/Dr_phase/260828_270117/261001Hubei/hubei-trip/research/places/shopping.json\n  task spec: /Users/maplefaith/Documents/Dr_phase/260828_270117/261001Hubei/hubei-trip/research/tasks/places-shopping.json\n  validate immediately: /Users/maplefaith/.venvs/travel-guide/bin/python3 /Users/maplefaith/.claude/skills/build-personalized-travel-guide-open-source/scripts/validate_research_pack.py places-shopping /Users/maplefaith/Documents/Dr_phase/260828_270117/261001Hubei/hubei-trip/research/places/shopping.json\nCONTINUE: follow references/production-flow.md; validate each completed pack once, then rerun research_status.py"
+  },
+  "created_at": "2026-09-14T09:44:55.465503+00:00",
+  "updated_at": "2026-09-14T10:03:46.801347+00:00",
+  "preview_ready": false,
+  "final_response_guard": "forbidden_until_handoff_or_real_user_blocker",
+  "recoverable_failure_policy": "inspect_context_retry_smallest_step_revalidate_then_continue",
+  "next_action_kind": "bounded_agent_work",
+  "next_command": "\"/Users/maplefaith/.venvs/travel-guide/bin/python3\" \"/Users/maplefaith/.claude/skills/build-personalized-travel-guide-open-source/scripts/research_status.py\" \"/Users/maplefaith/Documents/Dr_phase/260828_270117/261001Hubei/hubei-trip\"",
+  "audit_dimensions": {
+    "structure": false,
+    "research": false,
+    "media": false
+  },
+  "render_method": "missing",
+  "review_ready": false,
+  "response_state": "in_progress",
+  "evaluation_fingerprint": "54199d9f2556ccb7668d44135b5c7f363d073991ee49571ce1c781a9fc01c5e4"
+}

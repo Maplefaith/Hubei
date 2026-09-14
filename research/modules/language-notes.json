@@ -1,0 +1,699 @@
+{
+  "language": {
+    "keyword_groups": [
+      {
+        "title": "武汉方言称呼",
+        "items": [
+          {
+            "term": "过早",
+            "meaning": "吃早饭(武汉方言特有说法)",
+            "reading": "guò zǎo"
+          },
+          {
+            "term": "冇得",
+            "meaning": "没有",
+            "reading": "mǎo de"
+          },
+          {
+            "term": "么斯",
+            "meaning": "什么",
+            "reading": "mó sī"
+          },
+          {
+            "term": "搞么斯",
+            "meaning": "干什么",
+            "reading": "gǎo mó sī"
+          },
+          {
+            "term": "蛮扎实",
+            "meaning": "很厉害/很不错",
+            "reading": "mán zhā shí"
+          }
+        ]
+      },
+      {
+        "title": "恩施土家常用词",
+        "items": [
+          {
+            "term": "摆手舞",
+            "meaning": "土家族传统祭祀舞蹈",
+            "reading": "bǎi shǒu wǔ"
+          },
+          {
+            "term": "女儿会",
+            "meaning": "土家情人节,恩施传统节庆",
+            "reading": "nǚ ér huì"
+          },
+          {
+            "term": "西兰卡普",
+            "meaning": "土家织锦,国家级非遗手工艺",
+            "reading": "xī lán kǎ pǔ"
+          },
+          {
+            "term": "社饭",
+            "meaning": "土家传统腊味糯米饭",
+            "reading": "shè fàn"
+          },
+          {
+            "term": "合渣",
+            "meaning": "豆渣配青菜的土家家常菜",
+            "reading": "hé zhā"
+          }
+        ]
+      },
+      {
+        "title": "峡江地理名词",
+        "items": [
+          {
+            "term": "两坝一峡",
+            "meaning": "三峡大坝、葛洲坝与西陵峡组合游船线路",
+            "reading": "liǎng bà yī xiá"
+          },
+          {
+            "term": "坛子岭",
+            "meaning": "三峡大坝旅游区核心观景点",
+            "reading": "tán zi lǐng"
+          },
+          {
+            "term": "西陵峡",
+            "meaning": "长江三峡之一,两坝一峡航线核心段",
+            "reading": "xī líng xiá"
+          },
+          {
+            "term": "清江",
+            "meaning": "长江支流,清江画廊所在河流",
+            "reading": "qīng jiāng"
+          },
+          {
+            "term": "喀斯特",
+            "meaning": "石灰岩溶蚀地貌,恩施峡谷与石林的地质成因",
+            "reading": "kā sī tè"
+          }
+        ]
+      },
+      {
+        "title": "景区实用词",
+        "items": [
+          {
+            "term": "分时预约",
+            "meaning": "按指定时段预约门票入园",
+            "reading": "fēn shí yù yuē"
+          },
+          {
+            "term": "观光车",
+            "meaning": "景区内接驳车辆,常需单独购票",
+            "reading": "guān guāng chē"
+          },
+          {
+            "term": "玻璃桥",
+            "meaning": "景区内的高空透明观景桥",
+            "reading": "bō li qiáo"
+          },
+          {
+            "term": "一炷香",
+            "meaning": "恩施大峡谷标志性独柱峰景观",
+            "reading": "yī zhù xiāng"
+          },
+          {
+            "term": "手扶电梯",
+            "meaning": "景区内的大型峡谷观光斜行电梯",
+            "reading": "shǒu fú diàn tī"
+          }
+        ]
+      },
+      {
+        "title": "点餐常用词",
+        "items": [
+          {
+            "term": "微辣",
+            "meaning": "稍微辣一点",
+            "reading": "wēi là"
+          },
+          {
+            "term": "拼菜",
+            "meaning": "多人分享点菜",
+            "reading": "pīn cài"
+          },
+          {
+            "term": "打包",
+            "meaning": "剩菜/餐食带走",
+            "reading": "dǎ bāo"
+          },
+          {
+            "term": "加辣",
+            "meaning": "增加辣度",
+            "reading": "jiā là"
+          },
+          {
+            "term": "免费续",
+            "meaning": "免费加汤或加饭",
+            "reading": "miǎn fèi xù"
+          }
+        ]
+      }
+    ],
+    "phrase_groups": [
+      {
+        "title": "问路砍价",
+        "items": [
+          {
+            "term": "这个么斯价?",
+            "meaning": "这个多少钱?",
+            "reading": "zhè ge mó sī jià"
+          },
+          {
+            "term": "有点远咧,搭个车克撒?",
+            "meaning": "有点远,打车去吗?",
+            "reading": "yǒu diǎn yuǎn lie, dā ge chē kè sá"
+          },
+          {
+            "term": "蛮好切滴",
+            "meaning": "很好吃的",
+            "reading": "mán hǎo qiē dī"
+          },
+          {
+            "term": "冇得事",
+            "meaning": "没关系/没事",
+            "reading": "mǎo de shì"
+          },
+          {
+            "term": "克哪里?",
+            "meaning": "去哪里?",
+            "reading": "kè nǎ lǐ"
+          }
+        ]
+      },
+      {
+        "title": "点餐用语",
+        "items": [
+          {
+            "term": "老板,来碗热干面",
+            "meaning": "老板,来一碗热干面",
+            "reading": "lǎo bǎn, lái wǎn rè gān miàn"
+          },
+          {
+            "term": "不要放香菜",
+            "meaning": "不要放香菜",
+            "reading": "bù yào fàng xiāng cài"
+          },
+          {
+            "term": "微辣就要得",
+            "meaning": "微辣就可以",
+            "reading": "wēi là jiù yào dé"
+          },
+          {
+            "term": "打包带走",
+            "meaning": "打包带走",
+            "reading": "dǎ bāo dài zǒu"
+          },
+          {
+            "term": "多少钱一份?",
+            "meaning": "多少钱一份?",
+            "reading": "duō shǎo qián yī fèn"
+          }
+        ]
+      },
+      {
+        "title": "景区交流",
+        "items": [
+          {
+            "term": "分时票在哪里换?",
+            "meaning": "分时段门票在哪里兑换?",
+            "reading": "fēn shí piào zài nǎ lǐ huàn"
+          },
+          {
+            "term": "电梯要另外买票不?",
+            "meaning": "电梯需要另外购票吗?",
+            "reading": "diàn tī yào lìng wài mǎi piào bù"
+          },
+          {
+            "term": "还有好远到一炷香?",
+            "meaning": "还有多远到一炷香?",
+            "reading": "hái yǒu hǎo yuǎn dào yī zhù xiāng"
+          },
+          {
+            "term": "观光车在哪里坐?",
+            "meaning": "观光车在哪里乘坐?",
+            "reading": "guān guāng chē zài nǎ lǐ zuò"
+          },
+          {
+            "term": "厕所在哪块?",
+            "meaning": "厕所在哪里?",
+            "reading": "cè suǒ zài nǎ kuài"
+          }
+        ]
+      },
+      {
+        "title": "交通出行",
+        "items": [
+          {
+            "term": "师傅,麻烦到女儿城",
+            "meaning": "师傅,麻烦开车到女儿城",
+            "reading": "shī fù, má fan dào nǚ ér chéng"
+          },
+          {
+            "term": "堵不堵车?",
+            "meaning": "堵不堵车?",
+            "reading": "dǔ bù dǔ chē"
+          },
+          {
+            "term": "好久能到?",
+            "meaning": "多久能到?",
+            "reading": "hǎo jiǔ néng dào"
+          },
+          {
+            "term": "可以扫码付不?",
+            "meaning": "可以扫码支付吗?",
+            "reading": "kě yǐ sǎo mǎ fù bù"
+          },
+          {
+            "term": "麻烦停一下",
+            "meaning": "麻烦停一下车",
+            "reading": "má fan tíng yī xià"
+          }
+        ]
+      },
+      {
+        "title": "住宿沟通",
+        "items": [
+          {
+            "term": "有得早餐冇?",
+            "meaning": "有早餐吗?",
+            "reading": "yǒu de zǎo cān mǎo"
+          },
+          {
+            "term": "几点退房?",
+            "meaning": "几点退房?",
+            "reading": "jǐ diǎn tuì fáng"
+          },
+          {
+            "term": "麻烦帮忙叫个车",
+            "meaning": "麻烦帮忙叫一辆车",
+            "reading": "má fan bāng máng jiào ge chē"
+          },
+          {
+            "term": "行李可以寄存不?",
+            "meaning": "行李可以寄存吗?",
+            "reading": "xíng lǐ kě yǐ jì cún bù"
+          },
+          {
+            "term": "空调坏了",
+            "meaning": "空调坏了",
+            "reading": "kōng tiáo huài le"
+          }
+        ]
+      }
+    ],
+    "english_keyword_groups": [
+      {
+        "title": "购票与预约",
+        "items": [
+          {
+            "term": "Time-slot ticket",
+            "meaning": "分时段门票"
+          },
+          {
+            "term": "Reservation",
+            "meaning": "预约"
+          },
+          {
+            "term": "ID card",
+            "meaning": "身份证"
+          },
+          {
+            "term": "Entrance",
+            "meaning": "入口"
+          },
+          {
+            "term": "Shuttle bus",
+            "meaning": "观光接驳车"
+          }
+        ]
+      },
+      {
+        "title": "自然风光",
+        "items": [
+          {
+            "term": "Canyon",
+            "meaning": "峡谷"
+          },
+          {
+            "term": "Waterfall",
+            "meaning": "瀑布"
+          },
+          {
+            "term": "Cliff walkway",
+            "meaning": "绝壁栈道"
+          },
+          {
+            "term": "Cable car",
+            "meaning": "索道"
+          },
+          {
+            "term": "Karst landform",
+            "meaning": "喀斯特地貌"
+          }
+        ]
+      },
+      {
+        "title": "餐饮点单",
+        "items": [
+          {
+            "term": "Spicy",
+            "meaning": "辣"
+          },
+          {
+            "term": "Mild",
+            "meaning": "微辣"
+          },
+          {
+            "term": "Set menu",
+            "meaning": "套餐"
+          },
+          {
+            "term": "Local specialty",
+            "meaning": "本地特色菜"
+          },
+          {
+            "term": "Take away",
+            "meaning": "打包带走"
+          }
+        ]
+      },
+      {
+        "title": "交通出行",
+        "items": [
+          {
+            "term": "High-speed rail",
+            "meaning": "高铁"
+          },
+          {
+            "term": "Bullet train",
+            "meaning": "动车"
+          },
+          {
+            "term": "Taxi / ride-hailing",
+            "meaning": "出租车/网约车"
+          },
+          {
+            "term": "Cruise / ferry",
+            "meaning": "游船"
+          },
+          {
+            "term": "Platform",
+            "meaning": "站台"
+          }
+        ]
+      },
+      {
+        "title": "求助应急",
+        "items": [
+          {
+            "term": "Hospital",
+            "meaning": "医院"
+          },
+          {
+            "term": "Police",
+            "meaning": "警察"
+          },
+          {
+            "term": "Help",
+            "meaning": "帮助"
+          },
+          {
+            "term": "Lost",
+            "meaning": "丢失"
+          },
+          {
+            "term": "Restroom",
+            "meaning": "洗手间"
+          }
+        ]
+      }
+    ],
+    "english_phrase_groups": [
+      {
+        "title": "购票入园",
+        "items": [
+          {
+            "sentence": "Where can I redeem my time-slot ticket?",
+            "meaning": "请问在哪里兑换分时段门票?"
+          },
+          {
+            "sentence": "Do I need a separate ticket for the elevator?",
+            "meaning": "电梯需要单独购票吗?"
+          },
+          {
+            "sentence": "Is there an English map available?",
+            "meaning": "有英文地图吗?"
+          },
+          {
+            "sentence": "How long is the wait?",
+            "meaning": "需要排队多久?"
+          },
+          {
+            "sentence": "Can I use my passport to enter?",
+            "meaning": "可以用护照入园吗?"
+          }
+        ]
+      },
+      {
+        "title": "餐厅点餐",
+        "items": [
+          {
+            "sentence": "Can you make it mild, not spicy?",
+            "meaning": "可以做成微辣、不要太辣吗?"
+          },
+          {
+            "sentence": "What's the local specialty here?",
+            "meaning": "这里有什么本地特色菜?"
+          },
+          {
+            "sentence": "Could I have the bill, please?",
+            "meaning": "请给我账单"
+          },
+          {
+            "sentence": "Can I get this to go?",
+            "meaning": "可以打包带走吗?"
+          },
+          {
+            "sentence": "Do you have an English menu?",
+            "meaning": "有英文菜单吗?"
+          }
+        ]
+      },
+      {
+        "title": "出行代步",
+        "items": [
+          {
+            "sentence": "Could you take me to this address?",
+            "meaning": "可以带我去这个地址吗?"
+          },
+          {
+            "sentence": "How long will it take to get there?",
+            "meaning": "到那里需要多久?"
+          },
+          {
+            "sentence": "Can I pay by card?",
+            "meaning": "可以刷卡付款吗?"
+          },
+          {
+            "sentence": "Is this the right platform for Yichang?",
+            "meaning": "这是去宜昌的站台吗?"
+          },
+          {
+            "sentence": "Please stop here.",
+            "meaning": "请在这里停车"
+          }
+        ]
+      },
+      {
+        "title": "酒店住宿",
+        "items": [
+          {
+            "sentence": "What time is check-out?",
+            "meaning": "几点退房?"
+          },
+          {
+            "sentence": "Could you call a taxi for me?",
+            "meaning": "可以帮我叫一辆出租车吗?"
+          },
+          {
+            "sentence": "Is breakfast included?",
+            "meaning": "含早餐吗?"
+          },
+          {
+            "sentence": "Can I store my luggage here?",
+            "meaning": "可以在这里寄存行李吗?"
+          },
+          {
+            "sentence": "The air conditioning isn't working.",
+            "meaning": "空调坏了"
+          }
+        ]
+      },
+      {
+        "title": "应急求助",
+        "items": [
+          {
+            "sentence": "I need help, please.",
+            "meaning": "我需要帮助"
+          },
+          {
+            "sentence": "Where is the nearest hospital?",
+            "meaning": "最近的医院在哪里?"
+          },
+          {
+            "sentence": "I've lost my belongings.",
+            "meaning": "我的东西丢了"
+          },
+          {
+            "sentence": "Where is the restroom?",
+            "meaning": "洗手间在哪里?"
+          },
+          {
+            "sentence": "Please call the police.",
+            "meaning": "请报警"
+          }
+        ]
+      }
+    ]
+  },
+  "travel_notes": [
+    {
+      "category": "climate",
+      "title": "天气与穿着",
+      "items": [
+        {
+          "title": "国庆昼夜温差大",
+          "note": "武汉、宜昌白天约25-28°C、夜间18-21°C,恩施山区峡谷早晚更凉。建议叠穿薄外套,方便根据温差随时增减。",
+          "priority": "建议"
+        },
+        {
+          "title": "峡谷徒步易出汗",
+          "note": "七星寨、梭布垭、鹿院坪台阶多、体力消耗大,容易出汗。建议穿速干透气衣物,避免纯棉衣物汗湿后难干贴身不适。",
+          "priority": "建议"
+        },
+        {
+          "title": "游船江面风大",
+          "note": "两江夜游、两坝一峡游船甲板风力明显强于岸上。即使白天气温不低,也建议随身带一件可收纳的防风外套。",
+          "priority": "建议"
+        },
+        {
+          "title": "紫外线较强",
+          "note": "峡谷、游船水面反光强烈,紫外线强度高于市区。建议全程做好防晒,尤其上午10点至下午3点这一强光时段。",
+          "priority": "建议"
+        }
+      ],
+      "summary": "国庆假期武汉、宜昌昼夜温差明显,恩施山区峡谷更凉,需分层穿衣并做好防晒防风准备。"
+    },
+    {
+      "category": "etiquette",
+      "title": "文化与礼仪",
+      "items": [
+        {
+          "title": "土家表演现场礼仪",
+          "note": "女儿城篝火晚会等民俗表演现场人多且互动性强。拍照录像时请留在指定观赏区域,不要越过警戒线打扰表演者。",
+          "priority": "建议"
+        },
+        {
+          "title": "景区排队秩序",
+          "note": "国庆黄金周热门景点排队人数多,秩序管理压力大。请自觉排队不插队,遇到分时段限流须按预约时段有序入园。",
+          "priority": "必须"
+        },
+        {
+          "title": "土家饮食习俗",
+          "note": "土家菜偏腊味腌制,口味较重且部分食材较特殊。若有忌口或饮食限制,建议提前向餐厅说明以便调整菜品。",
+          "priority": "建议"
+        },
+        {
+          "title": "自然景观保护",
+          "note": "峡谷、石林等自然景观属于生态保护区域,地质结构较脆弱。请不要攀爬护栏外区域或采摘沿途植物,留意脚下安全标识。",
+          "priority": "必须"
+        }
+      ],
+      "summary": "黄金周景区客流集中,需自觉排队、尊重表演与自然保护区域规则,土家饮食习俗也需提前沟通忌口。"
+    },
+    {
+      "category": "transport",
+      "title": "当地交通",
+      "items": [
+        {
+          "title": "恩施大峡谷↔鹿院坪无公共交通",
+          "note": "两景区之间没有公交或地铁直达,完全依赖自驾或包车。必须提前联系当地包车师傅或在景区门口协商打车,车费需现场确认。",
+          "priority": "必须"
+        },
+        {
+          "title": "山区道路弯多易晕车",
+          "note": "恩施、宜昌沿线多为山区盘山公路,弯道密集颠簸感明显。建议提前服用晕车药,座位尽量选择前排以减少不适。",
+          "priority": "建议"
+        },
+        {
+          "title": "国庆高峰打车较难",
+          "note": "黄金周景区周边打车、网约车需求集中,等待时间明显变长。建议预留充足接驳时间,或提前通过平台预约包车。",
+          "priority": "建议"
+        },
+        {
+          "title": "跨城交通务必提前订票",
+          "note": "武汉→恩施、恩施→宜昌等城际动车国庆期间需求旺盛,一票难求。建议开售当天即抢票,尤其是关键的早班车次。",
+          "priority": "必须"
+        }
+      ],
+      "summary": "恩施大峡谷与鹿院坪之间无公共交通,城际动车和景区周边打车在假期都需提前规划预留时间。"
+    },
+    {
+      "category": "safety",
+      "title": "安全与应急",
+      "items": [
+        {
+          "title": "峡谷栈道台阶注意安全",
+          "note": "七星寨绝壁栈道、鹿院坪电梯周边台阶落差大且部分路段湿滑。请扶稳护栏、不要在栈道边缘长时间停留拍照。",
+          "priority": "必须"
+        },
+        {
+          "title": "游船水上活动听从指挥",
+          "note": "两江夜游、两坝一峡游船属于水上项目,存在一定安全风险。全程须按要求穿戴救生衣并听从船员指挥,不要在甲板边缘嬉闹。",
+          "priority": "必须"
+        },
+        {
+          "title": "随身携带紧急联系方式",
+          "note": "恩施、宜昌山区部分路段手机信号不稳定,联系不便。建议提前将同行人手机号、住宿地址、包车师傅联系方式截图保存。",
+          "priority": "建议"
+        },
+        {
+          "title": "急救与医疗",
+          "note": "行程涉及较高强度徒步与水上活动,身体不适风险需留意。恩施州中心医院、宜昌市中心人民医院均可提供急诊,紧急情况可拨打120。",
+          "priority": "建议"
+        }
+      ],
+      "summary": "峡谷栈道、游船等项目存在一定风险,需注意台阶湿滑、水上安全规范并保留应急联系方式。"
+    },
+    {
+      "category": "payment",
+      "title": "支付与现金",
+      "items": [
+        {
+          "title": "移动支付为主流",
+          "note": "武汉、恩施、宜昌城区微信、支付宝覆盖率高,使用便捷。大部分景区、餐厅、连锁店均支持扫码支付,无需频繁取现。",
+          "priority": "建议"
+        },
+        {
+          "title": "山区包车师傅偏好现金",
+          "note": "恩施大峡谷↔鹿院坪等山区包车司机有时更习惯收现金。建议随身备约¥300-500现金,以防移动支付信号不稳定。",
+          "priority": "建议"
+        },
+        {
+          "title": "景区门票建议线上购买",
+          "note": "恩施大峡谷、三峡大坝等热门景区国庆期间需线上分时预约购票。现场窗口购票名额有限甚至售罄,不建议临时现场购票。",
+          "priority": "必须"
+        },
+        {
+          "title": "留存消费凭证",
+          "note": "包车、门票等大额消费金额较高,行程中变数也较多。建议保留电子凭证或截图,以备行程有变时联系客服处理退改。",
+          "priority": "建议"
+        }
+      ],
+      "summary": "三地移动支付覆盖率高,但山区包车师傅和热门景区购票仍建议备现金并提前线上预约门票。"
+    }
+  ]
+}

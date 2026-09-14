@@ -1,0 +1,190 @@
+{
+  "shops": [
+    {
+      "id": "zhouheiya-jianghanlu",
+      "type": "shop",
+      "display_name": "周黑鸭(江汉路商圈门店)",
+      "local_name": "周黑鸭",
+      "english_name": "Zhou Hei Ya",
+      "map_query": "周黑鸭 江汉路 武汉",
+      "source_url": "https://sw.wuhan.gov.cn/xwdt/mtbd/202311/t20231102_2292318.shtml",
+      "description": "武汉本土卤味品牌,1994年创立,鸭脖、鸭掌、鸭锁骨等卤味小包装真空装适合携带,是武汉市文旅局评选的十大伴手礼之一“谢谢礼”所在品牌。江汉路商圈及户部巷周边均有门店,可现场称重购买散装或直接买礼盒装(图为品牌门店通用实景,非特指某一具体门店)。",
+      "hours": "10:00-22:00(以具体门店公示为准)",
+      "closed_days": [
+        "全年无休"
+      ],
+      "latitude": 30.5836,
+      "longitude": 114.2887,
+      "images": [
+        {
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Zhou_Hei_Ya_in_Changsha_20250216.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Zhou_Hei_Ya_in_Changsha_20250216.jpg",
+          "source_identity_note": "Wikimedia Commons 收录的周黑鸭品牌门店实景照片(长沙分店),用于展示该连锁品牌门店的通用视觉形象,非特指江汉路某一具体门店。",
+          "media_class": "licensed_photo",
+          "original_media_class": "licensed_photo",
+          "visual_subject_type": "place_exterior"
+        }
+      ],
+      "category": "卤味伴手礼",
+      "buying_tip": "散装卤味常温建议当天或次日食用,长途携带建议买真空包装礼盒装;辣度分微辣/中辣/精武辣多档,怕辣选微辣。",
+      "brand_highlights": [
+        "中国驰名商标",
+        "武汉十大伴手礼\"谢谢礼\"品牌"
+      ],
+      "scheduled_label": "D2 上午(江汉路可选路线内)"
+    },
+    {
+      "id": "enshi-nverchengxiyi",
+      "type": "shop",
+      "display_name": "恩施土家女儿城 · 非遗文化街",
+      "local_name": "女儿城非遗文化街",
+      "english_name": "Enshi Nverchengs Intangible Heritage Street",
+      "map_query": "恩施土家女儿城",
+      "source_url": "https://m.163.com/dy/article/KFS2KAGF04089AUO.html",
+      "description": "女儿城景区内集中了西兰卡普(土家织锦)传承人工作室与店铺,以及恩施玉露茶叶、富硒腊味等本地特产店。逛完傍晚的篝火晚会/民俗表演后可顺路采购,不必专程再跑一趟。",
+      "hours": "10:00-22:00(与女儿城景区同步开放)",
+      "closed_days": [
+        "全年无休"
+      ],
+      "latitude": 30.3,
+      "longitude": 109.49,
+      "coordinate_source": {
+        "url": "https://m.163.com/dy/article/KFS2KAGF04089AUO.html",
+        "note": "位于恩施市七里坪女儿城景区内,坐标为景区区域近似位置",
+        "precision": "area"
+      },
+      "images": [
+        {
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/%E6%81%A9%E6%96%BD_%E5%9C%9F%E5%AE%B6%E5%A5%B3%E5%84%BF%E5%9F%8E_02.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:%E6%81%A9%E6%96%BD_%E5%9C%9F%E5%AE%B6%E5%A5%B3%E5%84%BF%E5%9F%8E_02.jpg",
+          "source_identity_note": "Wikimedia Commons 文件名即为'恩施 土家女儿城 02',画面为女儿城仿古吊脚楼商业街区实景。",
+          "media_class": "licensed_photo",
+          "original_media_class": "licensed_photo",
+          "visual_subject_type": "place_exterior"
+        }
+      ],
+      "category": "土特产与非遗手工艺",
+      "buying_tip": "西兰卡普大件织锦价格较高且需鉴别做工,新手建议先买杯垫、桌旗、小挂饰等文创小件;茶叶、腊肉认准明码标价的品牌专柜。",
+      "brand_highlights": [
+        "国家级非物质文化遗产西兰卡普传承人工作室"
+      ],
+      "scheduled_label": "D4 晚上(女儿城内)"
+    }
+  ],
+  "souvenirs": [
+    {
+      "id": "souvenir-zhouheiya",
+      "type": "souvenir",
+      "display_name": "周黑鸭鸭脖礼盒",
+      "local_name": "周黑鸭",
+      "english_name": "Zhou Hei Ya Duck Neck Gift Box",
+      "map_query": "周黑鸭",
+      "source_url": "https://sw.wuhan.gov.cn/xwdt/mtbd/202311/t20231102_2292318.shtml",
+      "description": "武汉最具代表性的卤味伴手礼,真空包装可常温保存数日,是2023年武汉市民票选“最想互换的武汉特产”之一。",
+      "hours": null,
+      "closed_days": [],
+      "latitude": null,
+      "longitude": null,
+      "images": [],
+      "why_buy": "武汉本土卤味代表,辨识度高,送礼自用皆宜,机场/高铁站均有专柜方便临行前补购。",
+      "best_for": "不忌辣、喜欢卤味零食的亲友",
+      "where_to_buy": "江汉路、户部巷门店,或武汉天河机场/武汉站专柜",
+      "buying_tip": "选真空装而非散装称重款更适合携带;常温可存放约7-10天,建议按行程后段购买。"
+    },
+    {
+      "id": "souvenir-cailinji",
+      "type": "souvenir",
+      "display_name": "蔡林记热干面礼盒",
+      "local_name": "蔡林记",
+      "english_name": "Cai Lin Ji Hot Dry Noodles Gift Box",
+      "map_query": "蔡林记热干面礼盒",
+      "source_url": "https://www.whswwb.org.cn/fwzn/zlfyzn/202506/P020250623406893804198.pdf",
+      "description": "入选武汉十大伴手礼、武汉礼物TOP10,礼盒内含面饼与芝麻酱调料包,常温保存,在家即可复刻户部巷味道。",
+      "hours": null,
+      "closed_days": [],
+      "latitude": null,
+      "longitude": null,
+      "images": [],
+      "why_buy": "武汉“五大名面”之一的代表品牌,礼盒装比现吃一碗更适合带走分享。",
+      "best_for": "喜欢面食、想带手信回家复刻武汉味道的人",
+      "where_to_buy": "户部巷蔡林记门店、江汉路商圈、各大超市武汉特产专区",
+      "buying_tip": "认准官方礼盒包装(印有\"九凤\"国潮图案),避免路边散装仿品;保质期以包装标注为准。"
+    },
+    {
+      "id": "souvenir-enshiyulu",
+      "type": "souvenir",
+      "display_name": "恩施玉露茶叶",
+      "local_name": "恩施玉露",
+      "english_name": "Enshi Yulu Green Tea",
+      "map_query": "恩施玉露茶叶",
+      "source_url": "http://www.enshi.gov.cn/zq_50192/yzes/mstc/201901/t20190131_568160.html",
+      "description": "恩施代表性绿茶,条索紧圆挺直如针、色泽苍翠,是中国为数不多保留蒸青工艺的绿茶之一,春茶品质最佳。",
+      "hours": null,
+      "closed_days": [],
+      "latitude": null,
+      "longitude": null,
+      "images": [],
+      "why_buy": "地理标志产品,恩施最具辨识度的特产之一,茶叶轻便适合长途携带。",
+      "best_for": "爱喝绿茶、注重伴手礼地方辨识度的亲友",
+      "where_to_buy": "女儿城非遗文化街特产店、恩施城区正规茶叶专卖店",
+      "buying_tip": "认准包装上的地理标志专用标志,优先选独立密封小包装便于分装送人;十一期间为秋茶,品质略逊于明前春茶,可如实告知收礼人。"
+    },
+    {
+      "id": "souvenir-xilankapu",
+      "type": "souvenir",
+      "display_name": "土家西兰卡普手工艺品",
+      "local_name": "西兰卡普",
+      "english_name": "Tujia Brocade (Xilankapu)",
+      "map_query": "西兰卡普 土家织锦",
+      "source_url": "https://www.eslygroup.com/Cultural_creation/1658.html",
+      "description": "国家级非物质文化遗产土家织锦,中国三大名锦之一,图案绚丽,传统整幅织锦价格较高,现也开发了杯垫、桌旗、小挂饰等文创小件。",
+      "hours": null,
+      "closed_days": [],
+      "latitude": null,
+      "longitude": null,
+      "images": [],
+      "why_buy": "极具土家文化辨识度的非遗工艺品,女儿城内可直接看到传承人现场织造。",
+      "best_for": "喜欢民族手工艺、愿意为文化价值买单的旅行者",
+      "where_to_buy": "女儿城非遗文化街传承人工作室",
+      "buying_tip": "整幅织锦耗时耗工价格不菲,预算有限可选杯垫、桌旗等小件文创;购买前可请店家讲解图案寓意,辨别机织与手工的差异。"
+    },
+    {
+      "id": "souvenir-ziguicheng",
+      "type": "souvenir",
+      "display_name": "秭归脐橙",
+      "local_name": "秭归脐橙",
+      "english_name": "Zigui Navel Orange",
+      "map_query": "秭归脐橙",
+      "source_url": "https://news.hubeidaily.net/pc/c_4279840.html",
+      "description": "宜昌秭归代表性水果,品牌价值超百亿元,10月正值早熟品种“九月红”上市季节,皮薄多汁、酸甜适口。",
+      "hours": null,
+      "closed_days": [],
+      "latitude": null,
+      "longitude": null,
+      "images": [],
+      "why_buy": "国庆假期正值秭归脐橙“九月红”应季上市,新鲜度和性价比最高,是三峡库区最具代表性的应季水果伴手礼。",
+      "best_for": "喜欢新鲜水果、行程后段有冷链或能当天食用的旅行者",
+      "where_to_buy": "宜昌东站/机场特产店、清江画廊或三峡人家沿线果摊",
+      "buying_tip": "鲜果不易长途保存,建议按能吃完的量购买或选择顺丰空运到家服务;购买前掂重看皮薄光滑者更佳。"
+    },
+    {
+      "id": "souvenir-enshilarou",
+      "type": "souvenir",
+      "display_name": "恩施富硒老腊肉",
+      "local_name": "恩施腊肉",
+      "english_name": "Enshi Selenium-rich Cured Pork",
+      "map_query": "恩施腊肉 富硒",
+      "source_url": "https://www.sohu.com/a/982175517_122322105",
+      "description": "恩施山区传统烟熏腊肉,是乡腊小馆等土家菜馆的招牌食材原料,当地富硒土壤令产品带有“富硒”卖点,大型超市/特产专卖店有明码标价的真空包装。",
+      "hours": null,
+      "closed_days": [],
+      "latitude": null,
+      "longitude": null,
+      "images": [],
+      "why_buy": "土家饮食文化的代表食材,真空包装可常温短期保存,方便带回家复刻恩施土菜。",
+      "best_for": "喜欢腌腊制品、家中有厨房可自行烹饪的旅行者",
+      "where_to_buy": "女儿城非遗文化街、恩施城区大型超市特产专区",
+      "buying_tip": "选正规超市或专卖店明码标价的真空包装,避免路边无包装散装制品;乘飞机需注意腌腊制品的托运规定。"
+    }
+  ]
+}

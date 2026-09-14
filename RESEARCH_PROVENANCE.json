@@ -1,0 +1,18 @@
+{
+  "compiler": "compile_destination_profile.py",
+  "research_plan_sha256": "468e6134cb5f5c1d08f3bc140b2a5412322457bf30599590dd7eddb705b3e875",
+  "pack_count": 9,
+  "pack_sha256": {
+    "research/framing.json": "6042bcf2ef697a06038f51fe74708bf2d9b73aa437d09b960aaf14f1b15c490d",
+    "research/places/core.json": "84f872c36c4d2ccea59d4b89db664a9f74d4334cea762ebd19415626ee3ee3fc",
+    "research/places/shopping.json": "5dd4e42bea6b18475c34c9200d1dcb144e49e5a0f70419dec1d9774fa0877cf3",
+    "research/places/experiences.json": "1d34b9ff4f3a8dc661b64f03d3eeb60c4747faa705dc019d17f1cdc78fea2e67",
+    "research/places/restaurants.json": "c56f30f9562b9e4bedfc1a6ac88a2b1d11b2ea421cc8d8c3d518b5ab36b59c5a",
+    "research/itinerary.json": "172cf361fabae92484ba9881ec4feb2f25295d379c03911c67b3e8da9107508d",
+    "research/modules/discovery.json": "e19bec4d992d7f49bb62502a01d857537b4dc473611ca6d219d68565df97937c",
+    "research/modules/practical.json": "5b0d239be51df9216a0067d734aca4792dffd71e792976cfe027e47b5243869f",
+    "research/modules/language-notes.json": "83db2ac9b201d7cd0b34d88856ea29217e286dae0043f027a13812cb5c4a884e"
+  },
+  "profile_sha256": "379ad2fef3b850a190de63a501e0bcbf4389306a66c1bd40a4f7dbf7386f5283",
+  "test_fixture_detected": false
+}

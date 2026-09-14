@@ -1,0 +1,308 @@
+[
+  {
+    "id": "xiangla-xiaoguan",
+    "type": "restaurant",
+    "display_name": "乡腊小馆(奥山店)",
+    "local_name": "乡腊小馆",
+    "english_name": "Xiangla Xiaoguan (Aoshan)",
+    "map_query": "乡腊小馆 奥山店 恩施",
+    "source_url": "https://m.map.360.cn/m/search/detail/pid=99b438f84cf680e6",
+    "description": "恩施本地口碑排名靠前的土家农家菜馆,主打烟熏腊味,吊锅鱼、土家腊蹄子、肉末合渣是招牌菜。用户此行已实地体验过,口味地道、服务热情。",
+    "hours": "11:00-14:00,17:00-21:00(以门店实际公示为准)",
+    "closed_days": [
+      "全年无休"
+    ],
+    "latitude": 30.29,
+    "longitude": 109.49,
+    "coordinate_source": {
+      "url": "https://m.map.360.cn/m/search/detail/pid=99b438f84cf680e6",
+      "note": "地址为恩施市奥山世纪城4栋116号,坐标为该商圈区域近似位置",
+      "precision": "area"
+    },
+    "images": [
+      {
+        "download_url": "https://p2.ssl.qhimgs1.com/dmfd/212_160_/t0191daad5dfca6ad02.jpg",
+        "source_page": "https://m.map.360.cn/m/search/detail/pid=99b438f84cf680e6",
+        "source_identity_note": "360地图'乡腊小馆(奥山店)'商户详情页展示图,画面为该店菜品实拍。",
+        "media_class": "real_photo",
+        "original_media_class": "real_photo",
+        "visual_subject_type": "dish"
+      }
+    ],
+    "cuisine": "土家腊味农家菜",
+    "signature_dishes": "吊锅鱼(¥88) · 土家腊蹄子(¥138) · 肉末合渣(¥38)",
+    "price_per_person": "¥56"
+  },
+  {
+    "id": "barentang",
+    "type": "restaurant",
+    "display_name": "巴人堂",
+    "local_name": "巴人堂",
+    "english_name": "Baren Tang",
+    "map_query": "巴人堂 恩施土家女儿城",
+    "source_url": "https://gs.ctrip.com/html5/you/foods/fooddetail/1446196/25007280.html",
+    "description": "位于恩施土家女儿城8号楼的本地风味餐厅,携程恩施土家族苗族自治州当地风味餐厅榜第3名,招牌菜涵盖腊味、河鲜与土家家常菜,与D4晚间女儿城行程地理位置完全重合,无需额外绕路。",
+    "hours": "11:00-21:00",
+    "closed_days": [
+      "全年无休"
+    ],
+    "latitude": 30.3,
+    "longitude": 109.49,
+    "coordinate_source": {
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/1446196/25007280.html",
+      "note": "地址为恩施市马鞍山路41号土家女儿城8号楼,坐标为女儿城景区区域近似位置",
+      "precision": "area"
+    },
+    "images": [
+      {
+        "download_url": "https://dimg04.c-ctrip.com/images/01012120008skjgko075B_D_750_450_Q90.jpg?proc=autoorient",
+        "source_page": "https://gs.ctrip.com/html5/you/foods/fooddetail/1446196/25007280.html",
+        "source_identity_note": "携程'巴人堂'词条页面推荐菜图库首图,画面为招牌菜皱椒香辣虾实拍。",
+        "media_class": "real_photo",
+        "original_media_class": "real_photo",
+        "visual_subject_type": "dish"
+      }
+    ],
+    "cuisine": "土家风味河鲜家常菜",
+    "signature_dishes": "皱椒香辣虾 · 青椒焗恩施水库鱼 · 野根粑炒腊肉",
+    "price_per_person": "¥81"
+  },
+  {
+    "id": "huangjia-shefan",
+    "type": "restaurant",
+    "display_name": "黄家社饭(奥山店)",
+    "local_name": "黄家社饭",
+    "english_name": "Huangjia Shefan (Aoshan)",
+    "map_query": "黄家社饭 奥山店 恩施",
+    "source_url": "https://you.ctrip.com/food/0/12014823.html",
+    "description": "以恩施传统“社饭”与土家家常菜见长的餐厅,携程当地风味餐厅评分4.8。用户此行已实地体验过。",
+    "hours": "11:00-14:00,17:00-21:00(以门店实际公示为准)",
+    "closed_days": [
+      "全年无休"
+    ],
+    "latitude": 30.29,
+    "longitude": 109.49,
+    "coordinate_source": {
+      "url": "https://you.ctrip.com/food/0/12014823.html",
+      "note": "门店位于恩施市奥山商圈,坐标为该商圈区域近似位置",
+      "precision": "area"
+    },
+    "images": [
+      {
+        "download_url": "https://dimg04.c-ctrip.com/images/1mh2s12000knxn7l89E86_D_350_230_Q90.jpg?proc=autoorient",
+        "source_page": "https://you.ctrip.com/food/0/12014823.html",
+        "source_identity_note": "携程'黄家社饭(奥山店)'词条页面实拍首图,画面为招牌菜品实拍。",
+        "media_class": "real_photo",
+        "original_media_class": "real_photo",
+        "visual_subject_type": "dish"
+      }
+    ],
+    "cuisine": "土家社饭家常菜",
+    "signature_dishes": "社饭 · 土家家常菜",
+    "price_per_person": "¥65"
+  },
+  {
+    "id": "cailinji-hubuxiang",
+    "type": "restaurant",
+    "display_name": "蔡林记(户部巷店)",
+    "local_name": "蔡林记",
+    "english_name": "Cai Lin Ji (Hubu Lane)",
+    "map_query": "蔡林记 户部巷店 武汉",
+    "source_url": "http://www.mafengwo.cn/poi/2842.html",
+    "description": "武汉热干面代表老字号,与山西刀削面、四川担担面等并称“五大名面”,户部巷店紧邻黄鹤楼景区,适合D1晚餐或D2早餐打卡。",
+    "hours": "06:30-20:30",
+    "closed_days": [
+      "全年无休"
+    ],
+    "latitude": 30.5486,
+    "longitude": 114.3037,
+    "coordinate_source": {
+      "url": "http://www.mafengwo.cn/poi/2842.html",
+      "note": "地址为武汉市武昌区户部巷综合楼1层6-8号",
+      "precision": "building"
+    },
+    "images": [
+      {
+        "download_url": "https://dimg04.c-ctrip.com/images/0101b12000mag1lib97A6.jpg",
+        "source_page": "https://you.ctrip.com/food/145/5285840.html",
+        "source_identity_note": "携程'蔡林记(户部巷店)'词条页面实拍首图,画面为门店/餐食实拍。",
+        "media_class": "real_photo",
+        "original_media_class": "real_photo",
+        "visual_subject_type": "dish"
+      }
+    ],
+    "cuisine": "武汉老字号早点面食",
+    "signature_dishes": "热干面 · 三鲜豆皮",
+    "price_per_person": "¥25"
+  },
+  {
+    "id": "sijimei-hubuxiang",
+    "type": "restaurant",
+    "display_name": "四季美汤包(户部巷店)",
+    "local_name": "四季美汤包",
+    "english_name": "Siji Mei Soup Dumplings (Hubu Lane)",
+    "map_query": "四季美汤包 户部巷店 武汉",
+    "source_url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2015125/393890.html",
+    "description": "1922年创立的武汉老字号,以皮薄馅足、汤汁鲜香的汤包闻名,被誉为“汤包大王”,户部巷店步行即可到达黄鹤楼地铁站。",
+    "hours": "08:00-21:30",
+    "closed_days": [
+      "全年无休"
+    ],
+    "latitude": 30.5486,
+    "longitude": 114.3037,
+    "coordinate_source": {
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2015125/393890.html",
+      "note": "地址为武汉市武昌区民主路69附3号,近户部巷民主路牌坊",
+      "precision": "building"
+    },
+    "images": [
+      {
+        "download_url": "https://dimg04.c-ctrip.com/images/01023120009t5292mCA9D_D_750_450_Q90.jpg?proc=autoorient",
+        "source_page": "https://gs.ctrip.com/html5/you/foods/fooddetail/2015125/393890.html",
+        "source_identity_note": "携程'四季美汤包(户部巷店)'词条页面实拍首图,画面为汤包实拍。",
+        "media_class": "real_photo",
+        "original_media_class": "real_photo",
+        "visual_subject_type": "dish"
+      }
+    ],
+    "cuisine": "武汉老字号汤包",
+    "signature_dishes": "速冻鲜肉汤包 · 西红柿汤包 · 香菇汤包",
+    "price_per_person": "¥29"
+  },
+  {
+    "id": "fangweng-cliff-restaurant",
+    "type": "restaurant",
+    "display_name": "放翁悬崖餐厅(放翁酒家)",
+    "local_name": "放翁酒家",
+    "english_name": "Fangweng Cliff Restaurant",
+    "map_query": "放翁悬崖餐厅 三游洞",
+    "source_url": "https://m.wh.bendibao.com/meishi/72879.shtm",
+    "description": "建于三游洞山崖溶洞中的景观餐厅,曾入选“全球九大岩洞餐厅”,与三游洞景区隔江相望,主推白汤肥鱼火锅等峡江河鲜,是三峡沿线独一份的用餐体验,适合D5晚餐。",
+    "hours": "09:00-21:00",
+    "closed_days": [
+      "全年无休"
+    ],
+    "latitude": 30.79,
+    "longitude": 111.24,
+    "coordinate_source": {
+      "url": "https://m.wh.bendibao.com/meishi/72879.shtm",
+      "note": "地址为宜昌市南津关三游洞桥头,坐标为该区域近似位置",
+      "precision": "area"
+    },
+    "images": [
+      {
+        "download_url": "https://dimg04.c-ctrip.com/images/0102812000l3dep5235FE.jpg",
+        "source_page": "https://you.ctrip.com/food/313/100950.html",
+        "source_identity_note": "携程'放翁悬崖餐厅'词条页面实拍首图,画面为溶洞餐厅环境/餐食实拍。",
+        "media_class": "real_photo",
+        "original_media_class": "real_photo",
+        "visual_subject_type": "dish"
+      }
+    ],
+    "cuisine": "峡江河鲜景观餐厅",
+    "signature_dishes": "白汤肥鱼火锅 · 中华鲟相关菜品(以当日供应为准)",
+    "price_per_person": "¥171"
+  },
+  {
+    "id": "chain-zhouheiya",
+    "type": "restaurant",
+    "display_name": "周黑鸭(连锁门店)",
+    "local_name": "周黑鸭",
+    "english_name": "Zhou Hei Ya",
+    "map_query": "周黑鸭",
+    "source_url": "https://sw.wuhan.gov.cn/xwdt/mtbd/202311/t20231102_2292318.shtml",
+    "description": "武汉发源的全国性卤味连锁,武汉、恩施、宜昌等城市商圈均有门店,可作为深夜到达或懒得找餐厅时的卤味零食型简餐备选,建议现场用美团/大众点评搜索最近门店。",
+    "hours": "10:00-22:00(以具体门店公示为准)",
+    "closed_days": [
+      "全年无休"
+    ],
+    "latitude": 30.5836,
+    "longitude": 114.2887,
+    "images": [
+      {
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Zhou_Hei_Ya_Store_at_Suzhou_Center.jpg/1280px-Zhou_Hei_Ya_Store_at_Suzhou_Center.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Zhou_Hei_Ya_Store_at_Suzhou_Center.jpg",
+        "source_identity_note": "Wikimedia Commons 收录的周黑鸭品牌门店实景照片(苏州中心店),用于展示该连锁品牌门店的通用视觉形象。",
+        "media_class": "licensed_photo",
+        "original_media_class": "licensed_photo",
+        "visual_subject_type": "place_exterior"
+      }
+    ],
+    "cuisine": "卤味连锁备选",
+    "signature_dishes": "鸭脖 · 鸭锁骨 · 鸭掌",
+    "price_per_person": "¥30",
+    "coordinate_source": {
+      "url": "https://sw.wuhan.gov.cn/xwdt/mtbd/202311/t20231102_2292318.shtml",
+      "note": "以江汉路商圈为代表性门店参考位置,武汉/恩施/宜昌均有其他分店,建议现场就近搜索",
+      "precision": "area"
+    }
+  },
+  {
+    "id": "chain-zhengongfu",
+    "type": "restaurant",
+    "display_name": "真功夫(连锁门店)",
+    "local_name": "真功夫",
+    "english_name": "Zhen Kung Fu",
+    "map_query": "真功夫 快餐",
+    "source_url": "https://baike.baidu.com/item/%E7%9C%9F%E5%8A%9F%E5%A4%AB/7047173",
+    "description": "1990年创立于广东东莞的中式蒸品快餐连锁,全国门店密集,以蒸饭套餐见长,出品稳定、点餐快捷,适合赶车/赶行程时的高效简餐,建议现场用美团/大众点评搜索最近门店。",
+    "hours": "10:30-21:00(以具体门店公示为准)",
+    "closed_days": [
+      "全年无休"
+    ],
+    "latitude": 30.58,
+    "longitude": 114.29,
+    "images": [
+      {
+        "download_url": "https://img1.baidu.com/it/u=3838115335,2630378142&fm=253&app=138&f=JPEG?w=500&h=667",
+        "source_page": "https://image.baidu.com/search/index?tn=baiduimage&word=真功夫 门店",
+        "source_identity_note": "百度图片搜索'真功夫 门店'结果,画面为真功夫黄色招牌门店实景(李小龙形象LOGO+品牌黄底招牌为该品牌标志性视觉)。",
+        "media_class": "licensed_photo",
+        "original_media_class": "licensed_photo",
+        "visual_subject_type": "place_exterior"
+      }
+    ],
+    "cuisine": "中式快餐连锁备选",
+    "signature_dishes": "香菇滑鸡饭 · 猪软骨饭",
+    "price_per_person": "¥25",
+    "coordinate_source": {
+      "url": "https://m.wh.bendibao.com/tour/44917.shtm",
+      "note": "以武汉江汉路周边商圈为代表性门店参考位置,建议现场就近搜索",
+      "precision": "area"
+    }
+  },
+  {
+    "id": "chain-babi",
+    "type": "restaurant",
+    "display_name": "巴比食品(连锁门店)",
+    "local_name": "巴比",
+    "english_name": "Babi Food",
+    "map_query": "巴比馒头",
+    "source_url": "https://m.wh.bendibao.com/tour/44917.shtm",
+    "description": "全国性早点包子连锁,门店密度高、出品统一,适合赶早班动车/高铁前快速解决早餐,建议现场用美团/大众点评搜索最近门店。",
+    "hours": "06:00-20:00(以具体门店公示为准)",
+    "closed_days": [
+      "全年无休"
+    ],
+    "latitude": 30.29,
+    "longitude": 109.49,
+    "images": [
+      {
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Babi_Mantou_Zhongyuan_Road_II%2C_Yangpu_District-20210330.jpg/1280px-Babi_Mantou_Zhongyuan_Road_II%2C_Yangpu_District-20210330.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Babi_Mantou_Zhongyuan_Road_II,_Yangpu_District-20210330.jpg",
+        "source_identity_note": "Wikimedia Commons 收录的巴比馒头连锁门店实景照片,用于展示该连锁品牌门店的通用视觉形象。",
+        "media_class": "licensed_photo",
+        "original_media_class": "licensed_photo",
+        "visual_subject_type": "place_exterior"
+      }
+    ],
+    "cuisine": "早点连锁备选",
+    "signature_dishes": "鲜肉包 · 豆浆",
+    "price_per_person": "¥12",
+    "coordinate_source": {
+      "url": "https://m.wh.bendibao.com/tour/44917.shtm",
+      "note": "以恩施市奥山商圈为代表性门店参考位置,武汉/宜昌均有其他分店,建议现场就近搜索",
+      "precision": "area"
+    }
+  }
+]

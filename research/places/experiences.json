@@ -1,0 +1,213 @@
+[
+  {
+    "id": "liangjiang-night-cruise",
+    "type": "experience",
+    "display_name": "两江夜游",
+    "local_name": "武汉两江游览",
+    "english_name": "Wuhan Two Rivers Night Cruise",
+    "map_query": "武汉两江游览 黄鹤楼码头",
+    "source_url": "https://m.wh.bendibao.com/tour/178507.shtm",
+    "description": "游船沿长江与汉江交汇处航行,沿途可看黄鹤楼灯光、龟山电视塔、万里长江第一桥、江汉关钟楼与武汉江滩夜景,是D1晚上收尾的经典项目。可选登船点包括黄鹤楼码头(中华路2号码头)、汉口粤汉码头、武昌汉阳门码头等。",
+    "hours": "18:30-22:00滚动发班,每班约50-60分钟,参考发船时间19:20左右",
+    "closed_days": [
+      "全年无休(极端天气/防汛期可能停航,以当日公告为准)"
+    ],
+    "latitude": 30.545,
+    "longitude": 114.3,
+    "coordinate_source": {
+      "url": "https://m.wh.bendibao.com/tour/178507.shtm",
+      "note": "以黄鹤楼码头(中华路2号码头)为登船点参考位置,近黄鹤楼景区",
+      "precision": "area"
+    },
+    "images": [
+      {
+        "download_url": "https://dimg04.c-ctrip.com/images/0zg0s12000icl2ekkD16E.jpg",
+        "source_page": "https://you.ctrip.com/sight/wuhan145/141517.html",
+        "source_identity_note": "携程攻略'武汉两江游览·夜游长江'词条页面实景首图,画面为夜游长江游船与江岸夜景。",
+        "media_class": "real_photo",
+        "original_media_class": "real_photo",
+        "visual_subject_type": "experience_scene"
+      }
+    ],
+    "experience_type": "nightlife",
+    "category": "峡江游船与水岸夜色",
+    "scheduled_label": "D1 晚上",
+    "hazardous": false
+  },
+  {
+    "id": "liangba-yixia-cruise",
+    "type": "experience",
+    "display_name": "两坝一峡游船",
+    "local_name": "两坝一峡",
+    "english_name": "Two Dams and One Gorge Cruise",
+    "map_query": "两坝一峡游船 宜昌",
+    "source_url": "https://m.yichangly.com/news/show-6926.html",
+    "description": "从宜昌港/三峡游客中心出发的游船线路,串联三峡大坝、葛洲坝两座船闸与西陵峡(全长76公里中最精华的38公里),沿途经黄牛岩、张飞擂鼓台等景观,是D5下午的核心行程。票价约228-258元/人(含往返交通、坝区观光车与导游),每日一班,约8:15需到三峡游客中心集合。",
+    "hours": "每日一班,参考发船时间08:30左右(以当日购票平台公示为准)",
+    "closed_days": [
+      "全年无休(汛期/大雾可能停航,以当日公告为准)"
+    ],
+    "latitude": 30.82,
+    "longitude": 111.0,
+    "coordinate_source": {
+      "url": "https://m.yichangly.com/news/show-6926.html",
+      "note": "以三峡大坝旅游区/三峡游客中心为航线核心区域参考位置",
+      "precision": "area"
+    },
+    "images": [
+      {
+        "download_url": "https://dimg04.c-ctrip.com/images/0zg5x12000icmmvjiD8E5.jpg",
+        "source_page": "https://you.ctrip.com/sight/yichang313/139179.html",
+        "source_identity_note": "携程攻略'交运两坝一峡游船'词条页面实景首图,画面为两坝一峡游船航线实景。",
+        "media_class": "real_photo",
+        "original_media_class": "real_photo",
+        "visual_subject_type": "experience_scene"
+      }
+    ],
+    "experience_type": "adventure",
+    "category": "峡江游船与水岸夜色",
+    "scheduled_label": "D5 下午",
+    "hazardous": false
+  },
+  {
+    "id": "qingjiang-gallery",
+    "type": "experience",
+    "display_name": "清江画廊(宜昌段)",
+    "local_name": "清江画廊旅游度假区",
+    "english_name": "Qingjiang Gallery Scenic Area",
+    "map_query": "清江画廊旅游度假区",
+    "source_url": "https://m.yichang.bendibao.com/tour/23668.shtm",
+    "description": "国家5A景区,位于长阳土家族自治县,清江碧水配喀斯特峰林,乘船游览为主,风格类似缩小版桂林山水。全票145元(含门票90元+班船票55元),开放时间08:00-17:30。作为D6可选项之一,与三峡人家相比节奏更轻松、体力消耗更小。",
+    "hours": "08:00-17:30",
+    "closed_days": [
+      "全年无休"
+    ],
+    "latitude": 30.47,
+    "longitude": 111.2,
+    "coordinate_source": {
+      "url": "https://m.yichang.bendibao.com/tour/23668.shtm",
+      "note": "位于宜昌市长阳土家族自治县龙舟坪镇,坐标为景区区域近似位置",
+      "precision": "area"
+    },
+    "images": [
+      {
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Qingjiang_Gallery_01.jpg/1280px-Qingjiang_Gallery_01.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Qingjiang_Gallery_01.jpg",
+        "source_identity_note": "Wikimedia Commons 文件名即为'Qingjiang Gallery',画面为清江画廊喀斯特峰林与江面实景。",
+        "media_class": "licensed_photo",
+        "original_media_class": "licensed_photo",
+        "visual_subject_type": "landscape"
+      }
+    ],
+    "experience_type": "nature",
+    "category": "峡江游船与水岸夜色",
+    "scheduled_label": "D6 · 可选A(与三峡人家二选一)",
+    "hazardous": false
+  },
+  {
+    "id": "sanxia-renjia-half-day",
+    "type": "experience",
+    "display_name": "三峡人家(半天精简版)",
+    "local_name": "三峡人家风景区",
+    "english_name": "Three Gorges People Scenic Area",
+    "map_query": "三峡人家风景区",
+    "source_url": "http://m.hbly0717.com/article/110914.htm",
+    "description": "西陵峡口的土家民俗与峡江风光复合景区,分水上人家、溪边人家、山上人家三部分,常规完整游览需4-5小时。门票180元/人(含往返渡船),单程手扶电梯30元/人。作为D6半天版可选项,建议早出发、优先游览水上人家与溪边人家核心段,精简山上人家部分以控制在半天内。",
+    "hours": "09:00起(峡口山庄码头首班船9:00-10:30)",
+    "closed_days": [
+      "全年无休"
+    ],
+    "latitude": 30.87,
+    "longitude": 111.05,
+    "coordinate_source": {
+      "url": "http://m.hbly0717.com/article/110914.htm",
+      "note": "位于三斗坪镇石牌村,西陵峡口,三峡大坝与葛洲坝之间,坐标为景区区域近似位置",
+      "precision": "area"
+    },
+    "images": [
+      {
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%E9%95%BF%E6%B1%9F%E4%B8%89%E5%B3%A1%E6%9C%80%E7%BE%8E%E7%9A%84%E5%9C%B0%E6%96%B9-%E4%B8%89%E5%B3%A1%E4%BA%BA%E5%AE%B6.jpg/1280px-%E9%95%BF%E6%B1%9F%E4%B8%89%E5%B3%A1%E6%9C%80%E7%BE%8E%E7%9A%84%E5%9C%B0%E6%96%B9-%E4%B8%89%E5%B3%A1%E4%BA%BA%E5%AE%B6.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:%E9%95%BF%E6%B1%9F%E4%B8%89%E5%B3%A1%E6%9C%80%E7%BE%8E%E7%9A%84%E5%9C%B0%E6%96%B9-%E4%B8%89%E5%B3%A1%E4%BA%BA%E5%AE%B6.jpg",
+        "source_identity_note": "Wikimedia Commons 文件名即为'长江三峡最美的地方-三峡人家',画面为三峡人家景区实景。",
+        "media_class": "licensed_photo",
+        "original_media_class": "licensed_photo",
+        "visual_subject_type": "landscape"
+      }
+    ],
+    "experience_type": "culture",
+    "category": "峡江游船与水岸夜色",
+    "scheduled_label": "D6 · 可选B(与清江画廊二选一,需早出发)",
+    "hazardous": false
+  },
+  {
+    "id": "luyuanping-canyon",
+    "type": "experience",
+    "display_name": "鹿院坪",
+    "local_name": "鹿院坪生态景区",
+    "english_name": "Luyuanping Canyon",
+    "map_query": "鹿院坪生态景区",
+    "source_url": "https://www.dahepiao.com/lvyounews1/20240627473071.html",
+    "description": "恩施小众峡谷秘境,以“玄鹿天梯”斜行大电梯下降至谷底看瀑布著称,电梯为选购项目(约90元/人)。本次行程只坐电梯下到瀑布观景区,跳过需数小时的深度峡谷徒步。与恩施大峡谷高德实测车程约53分钟,需在两景区间包车/打车衔接。",
+    "hours": "08:00-17:30",
+    "closed_days": [
+      "全年无休"
+    ],
+    "latitude": 30.58,
+    "longitude": 109.25,
+    "coordinate_source": {
+      "url": "https://www.dahepiao.com/lvyounews1/20240627473071.html",
+      "note": "位于恩施市板桥镇新田村,距恩施城区约75公里,坐标为景区区域近似位置(与恩施大峡谷相对方位一致)",
+      "precision": "area"
+    },
+    "images": [
+      {
+        "download_url": "https://dimg04.c-ctrip.com/images/0zg4412000icl16olF503.jpg",
+        "source_page": "https://you.ctrip.com/sight/enshicity1446196/1714458.html",
+        "source_identity_note": "携程攻略'鹿院坪'词条页面实景首图,画面为鹿院坪峡谷/天梯实景。",
+        "media_class": "real_photo",
+        "original_media_class": "real_photo",
+        "visual_subject_type": "landscape"
+      }
+    ],
+    "experience_type": "adventure",
+    "category": "喀斯特秘境",
+    "scheduled_label": "D3 下午",
+    "hazardous": true,
+    "risk_assessment": "玄鹿天梯为高空斜行电梯,谷底瀑布区台阶湿滑且落差大,心脏病/恐高/孕妇及行动不便者不建议乘坐或需格外谨慎,请听从工作人员指挥,不要自行前往深度峡谷徒步区域。"
+  },
+  {
+    "id": "enshi-nverchengs-night",
+    "type": "experience",
+    "display_name": "恩施土家女儿城",
+    "local_name": "恩施土家女儿城",
+    "english_name": "Enshi Tujia Nverchengs",
+    "map_query": "恩施土家女儿城",
+    "source_url": "https://m.sohu.com/a/960225127_122322105/?pvid=000115_3w_a",
+    "description": "仿古土家吊脚楼商业街区,晚间19:00-20:00有街头巡游,20:30起在中心广场有大型土家歌舞与篝火晚会表演,均为免费观赏。是D4晚上的收尾项目,顺路可逛非遗文化街采购茶叶/腊肉/织锦。",
+    "hours": "全天开放;免费民俗表演约19:00-21:00(以当日公示为准)",
+    "closed_days": [
+      "全年无休"
+    ],
+    "latitude": 30.3,
+    "longitude": 109.49,
+    "coordinate_source": {
+      "url": "https://m.sohu.com/a/960225127_122322105/?pvid=000115_3w_a",
+      "note": "位于恩施市舞阳坝街道七里坪,坐标为景区区域近似位置",
+      "precision": "area"
+    },
+    "images": [
+      {
+        "download_url": "https://dimg04.c-ctrip.com/images/0zg1612000icl567w6055.jpg",
+        "source_page": "https://you.ctrip.com/sight/enshicity1446196/1414339.html",
+        "source_identity_note": "携程攻略'恩施土家女儿城'词条页面实景首图,画面为女儿城夜间灯会/建筑实景。",
+        "media_class": "real_photo",
+        "original_media_class": "real_photo",
+        "visual_subject_type": "experience_scene"
+      }
+    ],
+    "experience_type": "nightlife",
+    "category": "土家夜生活",
+    "scheduled_label": "D4 晚上",
+    "hazardous": false
+  }
+]

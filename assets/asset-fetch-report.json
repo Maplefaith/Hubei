@@ -1,0 +1,354 @@
+[
+  {
+    "place_id": "__cover__",
+    "file": "assets/cover.jpg",
+    "status": "failed",
+    "error": "__cover__ assets/cover.jpg: local file is missing/invalid and no download_url was supplied"
+  },
+  {
+    "place_id": "barentang",
+    "file": "assets/places/barentang.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 750,
+    "height": 450,
+    "download_url": "https://dimg04.c-ctrip.com/images/01012120008skjgko075B_D_750_450_Q90.jpg?proc=autoorient",
+    "source_page": "https://gs.ctrip.com/html5/you/foods/fooddetail/1446196/25007280.html",
+    "sha256": "becd27f3cb8a46ebbad80bcc36a333286d693480f8131401d7a47af8ca911677"
+  },
+  {
+    "place_id": "cailinji-hubuxiang",
+    "file": "assets/places/cailinji-hubuxiang.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 618,
+    "height": 447,
+    "download_url": "https://dimg04.c-ctrip.com/images/0101b12000mag1lib97A6.jpg",
+    "source_page": "https://you.ctrip.com/food/145/5285840.html",
+    "sha256": "5a3fe501d7e6514eb23a4b565400158b4460be3baab1974762d6e47d328eb648"
+  },
+  {
+    "place_id": "chain-babi",
+    "file": "assets/places/chain-babi.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1200,
+    "height": 1600,
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Babi_Mantou_Zhongyuan_Road_II%2C_Yangpu_District-20210330.jpg/1280px-Babi_Mantou_Zhongyuan_Road_II%2C_Yangpu_District-20210330.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Babi_Mantou_Zhongyuan_Road_II,_Yangpu_District-20210330.jpg",
+    "sha256": "31bbd7572af4d619ffe7d473986ee1cb0437d511934af4aa07fe31a8d0441344",
+    "source_dimensions": [
+      1280,
+      1707
+    ],
+    "delivery_resized": true,
+    "delivery_optimized": true
+  },
+  {
+    "download_url": "https://img1.baidu.com/it/u=3838115335,2630378142&fm=253&app=138&f=JPEG?w=500&h=667",
+    "source_page": "https://image.baidu.com/search/index?tn=baiduimage&word=真功夫 门店",
+    "sha256": "f251460a33df5c0375b9aa77cb080097a6eb71b4cd821a33d6ae0307df02eaee",
+    "place_id": "chain-zhengongfu",
+    "file": "assets/places/chain-zhengongfu.jpg",
+    "status": "cached",
+    "width": 500,
+    "height": 667
+  },
+  {
+    "place_id": "chain-zhouheiya",
+    "file": "assets/places/chain-zhouheiya.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1280,
+    "height": 960,
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Zhou_Hei_Ya_Store_at_Suzhou_Center.jpg/1280px-Zhou_Hei_Ya_Store_at_Suzhou_Center.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Zhou_Hei_Ya_Store_at_Suzhou_Center.jpg",
+    "sha256": "1b478e2b514de46a6d8f173d335b763281672aad67e74e95761c9165a63f797a"
+  },
+  {
+    "place_id": "changjiang-daqiao",
+    "file": "assets/places/changjiang-daqiao.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1600,
+    "height": 1063,
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Wuhan_Yangtze_River_Bridge.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Wuhan_Yangtze_River_Bridge.jpg",
+    "sha256": "054e7c323a3bfdd0fc7e3a978e7ae41043ffe1b3aa26e12395e475dff077f4a3"
+  },
+  {
+    "place_id": "enshi-canyon-qixingzhai",
+    "file": "assets/places/enshi-canyon-qixingzhai.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1200,
+    "height": 1600,
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Enshi_grand_canyon_2025_06.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Enshi_grand_canyon_2025_06.jpg",
+    "sha256": "b0ae4f4c8a4b19b2502c06008864f390c3294bc36941ca872184f970d8b77b54",
+    "source_dimensions": [
+      3000,
+      4000
+    ],
+    "delivery_resized": true,
+    "delivery_optimized": true
+  },
+  {
+    "place_id": "enshi-nverchengs-night",
+    "file": "assets/places/enshi-nverchengs-night.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 280,
+    "height": 280,
+    "download_url": "https://dimg04.c-ctrip.com/images/0zg1612000icl567w6055.jpg",
+    "source_page": "https://you.ctrip.com/sight/enshicity1446196/1414339.html",
+    "sha256": "c927850a54fbdee5487dff9ae1f2ecc6664e0785870dad608c42a41519f230c2",
+    "resolution_warning": "Low resolution accepted in standard mode; do not replace solely for dimensions."
+  },
+  {
+    "place_id": "enshi-nverchengxiyi",
+    "file": "assets/places/enshi-nverchengxiyi.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1600,
+    "height": 1067,
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/%E6%81%A9%E6%96%BD_%E5%9C%9F%E5%AE%B6%E5%A5%B3%E5%84%BF%E5%9F%8E_02.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:%E6%81%A9%E6%96%BD_%E5%9C%9F%E5%AE%B6%E5%A5%B3%E5%84%BF%E5%9F%8E_02.jpg",
+    "sha256": "34e6419c84e3db2256726d9f3c374b59c4a998b05439ebc36fa97329914f85be",
+    "source_dimensions": [
+      6000,
+      4000
+    ],
+    "delivery_resized": true,
+    "delivery_optimized": true
+  },
+  {
+    "place_id": "enshi-tusi-city",
+    "file": "assets/places/enshi-tusi-city.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1600,
+    "height": 1067,
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/%E6%81%A9%E6%96%BD_%E6%81%A9%E6%96%BD%E5%9C%9F%E5%8F%B8%E5%9F%8E_01.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:%E6%81%A9%E6%96%BD_%E6%81%A9%E6%96%BD%E5%9C%9F%E5%8F%B8%E5%9F%8E_01.jpg",
+    "sha256": "b9613974764a71f2c0d409274bb0b754f7dc5e82a6b50c6282f7b7929a391b5a",
+    "source_dimensions": [
+      6000,
+      4000
+    ],
+    "delivery_resized": true,
+    "delivery_optimized": true
+  },
+  {
+    "place_id": "fangweng-cliff-restaurant",
+    "file": "assets/places/fangweng-cliff-restaurant.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1600,
+    "height": 1200,
+    "download_url": "https://dimg04.c-ctrip.com/images/0102812000l3dep5235FE.jpg",
+    "source_page": "https://you.ctrip.com/food/313/100950.html",
+    "sha256": "6b1f11651f83b8bc7b70a2247b691dae51306cd34acfc6bd4128cb7415c02696",
+    "source_dimensions": [
+      1777,
+      1333
+    ],
+    "delivery_resized": true,
+    "delivery_optimized": true
+  },
+  {
+    "place_id": "huanghelou",
+    "file": "assets/places/huanghelou.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1200,
+    "height": 1600,
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/CN_-_Hubei_-_Wuhan_-_Kranichpagode.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:CN_-_Hubei_-_Wuhan_-_Kranichpagode.jpg",
+    "sha256": "06cf64e433547898d8afaa08f66eecb9beb89a45dd1c35aef7b386347d15fd3d",
+    "source_dimensions": [
+      3000,
+      4000
+    ],
+    "delivery_resized": true,
+    "delivery_optimized": true
+  },
+  {
+    "place_id": "huangjia-shefan",
+    "file": "assets/places/huangjia-shefan.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 350,
+    "height": 230,
+    "download_url": "https://dimg04.c-ctrip.com/images/1mh2s12000knxn7l89E86_D_350_230_Q90.jpg?proc=autoorient",
+    "source_page": "https://you.ctrip.com/food/0/12014823.html",
+    "sha256": "344b14309fd550f31a9706b19ed3f62b426d0982e3a7d8089ebc8f857d42b2cc",
+    "resolution_warning": "Low resolution accepted in standard mode; do not replace solely for dimensions."
+  },
+  {
+    "place_id": "hubuxiang",
+    "file": "assets/places/hubuxiang.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 280,
+    "height": 280,
+    "download_url": "https://dimg04.c-ctrip.com/images/0zg1p12000icloo8u89A2.jpg",
+    "source_page": "https://you.ctrip.com/sight/wuhan145/50969.html",
+    "sha256": "0e7ec963acd2d00b54c4fb53d9d8dfd198f04d3e3d1596a8930af628a83637a2",
+    "resolution_warning": "Low resolution accepted in standard mode; do not replace solely for dimensions."
+  },
+  {
+    "place_id": "jianghanlu",
+    "file": "assets/places/jianghanlu.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 533,
+    "height": 800,
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/%E6%B1%9F%E6%B1%89%E8%B7%AF%E9%9B%95%E5%A1%91.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:%E6%B1%9F%E6%B1%89%E8%B7%AF%E9%9B%95%E5%A1%91.jpg",
+    "sha256": "5d7b49f336e4179cfac88f84ca73711780a99d708d889b9be8e1e0917a3cb99c"
+  },
+  {
+    "place_id": "liangba-yixia-cruise",
+    "file": "assets/places/liangba-yixia-cruise.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 280,
+    "height": 280,
+    "download_url": "https://dimg04.c-ctrip.com/images/0zg5x12000icmmvjiD8E5.jpg",
+    "source_page": "https://you.ctrip.com/sight/yichang313/139179.html",
+    "sha256": "ae3f35c9f4768b15ac3527e6be3fbbe5c3f733379564bac7b0ca92d9ba290ac7",
+    "resolution_warning": "Low resolution accepted in standard mode; do not replace solely for dimensions."
+  },
+  {
+    "place_id": "liangjiang-night-cruise",
+    "file": "assets/places/liangjiang-night-cruise.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 280,
+    "height": 280,
+    "download_url": "https://dimg04.c-ctrip.com/images/0zg0s12000icl2ekkD16E.jpg",
+    "source_page": "https://you.ctrip.com/sight/wuhan145/141517.html",
+    "sha256": "740b501f638fdc30c8a65804bdf40bf40a61673b1da411f4897a6f508d1107f5",
+    "resolution_warning": "Low resolution accepted in standard mode; do not replace solely for dimensions."
+  },
+  {
+    "place_id": "luyuanping-canyon",
+    "file": "assets/places/luyuanping-canyon.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 280,
+    "height": 280,
+    "download_url": "https://dimg04.c-ctrip.com/images/0zg4412000icl16olF503.jpg",
+    "source_page": "https://you.ctrip.com/sight/enshicity1446196/1714458.html",
+    "sha256": "160284e578144d375344e0239c81ccfb1db50210e218cc1180bc9a608fcbc450",
+    "resolution_warning": "Low resolution accepted in standard mode; do not replace solely for dimensions."
+  },
+  {
+    "place_id": "qingjiang-gallery",
+    "file": "assets/places/qingjiang-gallery.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1280,
+    "height": 960,
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Qingjiang_Gallery_01.jpg/1280px-Qingjiang_Gallery_01.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Qingjiang_Gallery_01.jpg",
+    "sha256": "fcaed9e6e97ac01cf71d3929a7f4cf6ab6755f3edf9ca5d1195abbf78f63e0c5"
+  },
+  {
+    "place_id": "sanxia-dam",
+    "file": "assets/places/sanxia-dam.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1600,
+    "height": 994,
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/ThreeGorgesDam-China2009.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:ThreeGorgesDam-China2009.jpg",
+    "sha256": "dd0e7b97c2830b866081fbf41602bb232348da3378b538f9547484862fd51ef5",
+    "source_dimensions": [
+      2847,
+      1768
+    ],
+    "delivery_resized": true,
+    "delivery_optimized": true
+  },
+  {
+    "place_id": "sanxia-renjia-half-day",
+    "file": "assets/places/sanxia-renjia-half-day.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1280,
+    "height": 853,
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%E9%95%BF%E6%B1%9F%E4%B8%89%E5%B3%A1%E6%9C%80%E7%BE%8E%E7%9A%84%E5%9C%B0%E6%96%B9-%E4%B8%89%E5%B3%A1%E4%BA%BA%E5%AE%B6.jpg/1280px-%E9%95%BF%E6%B1%9F%E4%B8%89%E5%B3%A1%E6%9C%80%E7%BE%8E%E7%9A%84%E5%9C%B0%E6%96%B9-%E4%B8%89%E5%B3%A1%E4%BA%BA%E5%AE%B6.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:%E9%95%BF%E6%B1%9F%E4%B8%89%E5%B3%A1%E6%9C%80%E7%BE%8E%E7%9A%84%E5%9C%B0%E6%96%B9-%E4%B8%89%E5%B3%A1%E4%BA%BA%E5%AE%B6.jpg",
+    "sha256": "4594d0e93fb9f5e4c3db3b25a2795a7a6b62e39e58144997f3de0e99c2bb96b8"
+  },
+  {
+    "place_id": "sijimei-hubuxiang",
+    "file": "assets/places/sijimei-hubuxiang.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 750,
+    "height": 450,
+    "download_url": "https://dimg04.c-ctrip.com/images/01023120009t5292mCA9D_D_750_450_Q90.jpg?proc=autoorient",
+    "source_page": "https://gs.ctrip.com/html5/you/foods/fooddetail/2015125/393890.html",
+    "sha256": "78fd9a9b663a6c7f18d05ccf91ade2126117d82823e5192ec9cae5d275999360"
+  },
+  {
+    "place_id": "suobuya-stone-forest",
+    "file": "assets/places/suobuya-stone-forest.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1280,
+    "height": 960,
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Suobuya_Stone_Forest_20240726_161306.jpg/1280px-Suobuya_Stone_Forest_20240726_161306.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Suobuya_Stone_Forest_20240726_161306.jpg",
+    "sha256": "d0895e97d35e9a27d6e4665fb0f72dc323d1aea70c4f2403b7a6dcda241af78f"
+  },
+  {
+    "place_id": "tanhualin",
+    "file": "assets/places/tanhualin.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1600,
+    "height": 1065,
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/%E6%98%99%E5%8D%8E%E6%9E%97%E5%B0%8F%E5%AD%A6.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:%E6%98%99%E5%8D%8E%E6%9E%97%E5%B0%8F%E5%AD%A6.jpg",
+    "sha256": "2f2a0d0fd9ccaca2e3b32312588a7306337eefd8c8a0f805a4b697d1cf31a3e0",
+    "source_dimensions": [
+      4032,
+      2685
+    ],
+    "delivery_resized": true,
+    "delivery_optimized": true
+  },
+  {
+    "place_id": "xiangla-xiaoguan",
+    "file": "assets/places/xiangla-xiaoguan.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 212,
+    "height": 160,
+    "download_url": "https://p2.ssl.qhimgs1.com/dmfd/212_160_/t0191daad5dfca6ad02.jpg",
+    "source_page": "https://m.map.360.cn/m/search/detail/pid=99b438f84cf680e6",
+    "sha256": "62845ad53aac86dafc76f374e1452d1b00e2fa515e33d707132dfdc02315bd24",
+    "resolution_warning": "Low resolution accepted in standard mode; do not replace solely for dimensions."
+  },
+  {
+    "place_id": "zhouheiya-jianghanlu",
+    "file": "assets/places/zhouheiya-jianghanlu.jpg",
+    "status": "cached",
+    "mime_type": "image/jpeg",
+    "width": 1600,
+    "height": 1200,
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Zhou_Hei_Ya_in_Changsha_20250216.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Zhou_Hei_Ya_in_Changsha_20250216.jpg",
+    "sha256": "4e3d62cc31a00696162b9c08c7fdb83cf052a8e3b59bbbb487815f86b9fdc140",
+    "source_dimensions": [
+      4608,
+      3456
+    ],
+    "delivery_resized": true,
+    "delivery_optimized": true
+  }
+]

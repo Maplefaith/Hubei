@@ -1,0 +1,12 @@
+{
+  "destination": "武汉-恩施-宜昌",
+  "display_name": "武汉-恩施-宜昌",
+  "country": "中国",
+  "start_date": "2026-10-01",
+  "end_date": "2026-10-07",
+  "days": 7,
+  "travelers": "2",
+  "rhythm": "relaxed",
+  "defaults_authorized": true,
+  "quality_mode": "standard"
+}

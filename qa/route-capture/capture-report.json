@@ -1,0 +1,537 @@
+{
+  "captures": [
+    {
+      "png": "day-1-1.png",
+      "page": "day-1-1.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "0eb0c4f28b2d142b57f734bf178c86152b77d77a291977a7226ae12b26e7e5cc",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 12.154868823415436,
+        "labels": 5,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-1-2.png",
+      "page": "day-1-2.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "f3c157f40f4a8f305bf1be1f5b5961ec032e2364242f87ab3ffbcb70e519988b",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 17,
+        "labels": 1,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-1-3.png",
+      "page": "day-1-3.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "0e77b01a373b3d76509698f8309440e71f4ade02921aaa59186ca9049dc9e3ad",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 17,
+        "labels": 1,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-1-4.png",
+      "page": "day-1-4.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "3b8005be6a6fd724c6de453bdb10817e2abaa41fcea33548716267c7fd421c30",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 17,
+        "labels": 1,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-1-5.png",
+      "page": "day-1-5.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "d046ea01d45158359b3e9ead5afbe8b4b2dd6a4b2d09554f2f2607c9221b44cd",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 16.656179513757873,
+        "labels": 2,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-2-1.png",
+      "page": "day-2-1.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "bd8a9bab074cd96a1ad9ddedaf84f4219a50dce0cd6355203bdc0a38684cfb14",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 7.196801059523439,
+        "labels": 3,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-2-2.png",
+      "page": "day-2-2.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "77e131b2ea4a405922744393906f34cb323cfcf40bae3c9435939787ca2809f2",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 17,
+        "labels": 1,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-2-3.png",
+      "page": "day-2-3.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "fcc7776c7841c80fd1a83bf40ab80284b6c8584186428a435e6328e80eb39bdf",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 17,
+        "labels": 1,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-2-4.png",
+      "page": "day-2-4.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "a4f5c002ab3098d20dd15dbecd7c84ba71aab8f454d18305cde64faa0e289a4d",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 17,
+        "labels": 1,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-3-1.png",
+      "page": "day-3-1.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "b9debddcb38d7843f5617d373b7c15f8fe8917876eef668c977d671953e0af32",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 10.32592234628173,
+        "labels": 3,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-3-2.png",
+      "page": "day-3-2.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "60b098a7a243f9a1d5869fc7b6ed4d0c342e458227ce855caf64665c8c6c51c8",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 17,
+        "labels": 1,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-3-3.png",
+      "page": "day-3-3.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "c4df07053ae4f4873f1b7d572f756cb1a0a21669e32d0bfcce13ed93136392a5",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 17,
+        "labels": 1,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-3-4.png",
+      "page": "day-3-4.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "24b55d35f9fc2a91d9c34def6f63c9de05bc0cd31291ce27ffdba3d4b5264e14",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 17,
+        "labels": 1,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-4-1.png",
+      "page": "day-4-1.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "5eed506dbbe1249728a6bf32d8dd694db09d40d5ea3d60ad7d6000bd96b2e659",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 10.79217842858081,
+        "labels": 3,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-4-2.png",
+      "page": "day-4-2.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "bcb988a8ff73017e32137010c946576f6d17e703f648dd13865dd892dd49e2a8",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 17,
+        "labels": 1,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-4-3.png",
+      "page": "day-4-3.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "378101232e0827c4c7e999db6b593479e687d3f6c086c6dcd98faf2335a5559f",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 17,
+        "labels": 1,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-4-4.png",
+      "page": "day-4-4.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "4f9fa3600b176ea7b0d82120b87726b87560d6913aa3d01c57e4e605994d5047",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 17,
+        "labels": 1,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-5-1.png",
+      "page": "day-5-1.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "bab32c6e81ace37ab433e4cdfdc017982963fcc7878bcd3e1d5e2d545ba2ead3",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 11.062574581474177,
+        "labels": 4,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-5-2.png",
+      "page": "day-5-2.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "cc5f4086c12efc38b73f094ef2a4643d2930f0f1ab03d2db29b85bebab82afb0",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 17,
+        "labels": 1,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-5-3.png",
+      "page": "day-5-3.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "88e0dbabd83de77752382fc7fa455ef6e217a8d0c612264c974d280f2f18fbd9",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 16.891262433276314,
+        "labels": 2,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-5-4.png",
+      "page": "day-5-4.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "ac8e93362f00194b405d6e80d57c42d31ef764db345ac317e77fed4784b5f79d",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 17,
+        "labels": 1,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-6-1.png",
+      "page": "day-6-1.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "399755073a1b920147204c0949a10ba390bdcbd67a8ed69e0f8ff2c6ba3502da",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 7.886614071228471,
+        "labels": 3,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-6-2.png",
+      "page": "day-6-2.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "34732ca963354b7f1c9c64f65a4dfe317ae370d57ba5b703e97d5a93af89ae55",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 17,
+        "labels": 1,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-6-3.png",
+      "page": "day-6-3.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "78f548ee71deade05f547a808fc85306eff564c5c22053009986df9afd5888e0",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 17,
+        "labels": 1,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-6-4.png",
+      "page": "day-6-4.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "f1b8b680452fb289f2dd3ca3a5c72a4bc45edd19960d4af49e2b130e15abaf6d",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 17,
+        "labels": 1,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-7-1.png",
+      "page": "day-7-1.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "8541a66fa19b2bb05d6e60926b9b27717bb4e37f7245d17b031c07804c812d21",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 5.235632805358764,
+        "labels": 2,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-7-2.png",
+      "page": "day-7-2.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "060328f9f6f9c9ac725f2f0309778990dd45d027077fa64a4ff4591ce34fcf00",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 17,
+        "labels": 1,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    },
+    {
+      "png": "day-7-3.png",
+      "page": "day-7-3.html",
+      "status": "captured",
+      "visual_reviewed": true,
+      "sha256": "f11d819a10959fce2ac374d91c9795a234213c3fe0d11d47d890400e4b2a3689",
+      "observed_state": {
+        "status": "ready",
+        "zoom": 17,
+        "labels": 1,
+        "tiles_loaded": true,
+        "canvas": [
+          1400,
+          974
+        ]
+      },
+      "diagnostics": [],
+      "review_note": "人工抽样核验全部7天(总览+局部)地图,街道/地名/路线连线清晰可辨,含正确的OpenFreeMap/OpenMapTiles署名,无空白或加载失败。"
+    }
+  ],
+  "status": "captured_pending_visual_review"
+}
