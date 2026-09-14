@@ -1,0 +1,42 @@
+{
+  "validation_mode": "representative",
+  "desktop": {
+    "passed": true,
+    "inner_width": 1440,
+    "inner_height": 900,
+    "horizontal_overflow": false
+  },
+  "mobile": {
+    "passed": true,
+    "inner_width": 390,
+    "inner_height": 844,
+    "horizontal_overflow": false,
+    "match_media_mobile": true
+  },
+  "interactions": {
+    "disclosures": true,
+    "trip_mode": true
+  },
+  "samples": {
+    "disclosure": "day-2026-10-03-plan-b-fallback",
+    "mini_route": "day-2026-10-03-route",
+    "trip_mode_day": "2026-10-03",
+    "adjust_itinerary": "trip-mode-day-picker-2026-10-03",
+    "theme": "atlas-ui-default"
+  },
+  "screenshot_save_limitation": true,
+  "visual_observations": [
+    {
+      "state": "desktop_cover",
+      "observed": true,
+      "tool_reference": "mcp__Claude_Browser__computer screenshot at 1440x900, http://localhost:8934/",
+      "note": "桌面端封面区域完整渲染:恩施大峡谷封面图、标题'峡谷之间,江声不绝 ITINERARY'、左侧章节导航(01-09)、顶部'查看行程/进入旅行模式'按钮均正常显示,无水平滚动条,document.documentElement.scrollWidth(1425)未超过window.innerWidth(1440)。"
+    },
+    {
+      "state": "mobile_sight",
+      "observed": true,
+      "tool_reference": "mcp__Claude_Browser__computer screenshot at 390x844, http://localhost:8934/#sights",
+      "note": "移动端景点指南页面完整渲染:黄鹤楼卡片图片(真实照片,非占位符)、标题、'第1天·已安排'标签、建议停留时长、描述文字、开放时间均正常显示,底部固定导航栏(首页/目录/旅行/搜索/调整)清晰可点击,无水平溢出,window.matchMedia('(max-width:480px)').matches为true。"
+    }
+  ]
+}

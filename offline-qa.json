@@ -1,0 +1,30 @@
+{
+  "validation_mode": "browser",
+  "status": "passed",
+  "export_sha256": "4e82c041db0c09af3f7927be12a59dd2ab625cba2eba12e98bb8ba0fcd05e364",
+  "tested_url": "http://localhost:8935/%E6%AD%A6%E6%B1%89%C2%B7%E6%81%A9%E6%96%BD%C2%B7%E5%AE%9C%E6%98%8C7%E5%A4%A96%E6%99%9A-%E7%A6%BB%E7%BA%BF%E6%89%8B%E5%86%8C.html",
+  "checked_at": "2026-09-14T13:40:00Z",
+  "tool_reference": "mcp__Claude_Browser__navigate + computer/javascript_tool on loopback preview of the exact exported offline HTML file (same directory as source, served via local python http.server since the host's file:// opener rejected the CJK filename)",
+  "checks": {
+    "chapter_navigation": {
+      "passed": true,
+      "note": "通过 location.hash='#sights' 跳转到景点章节,document.documentElement.scrollWidth 未超过 window.innerWidth,无水平溢出;56张图片中55张为data:内嵌base64,确认导出文件真正自包含。"
+    },
+    "disclosures": {
+      "passed": true,
+      "note": "点击Day3'PLAN B·天气与体力 备选方案'的<summary>元素,details.open 由 false 变为 true,展开内容与研究阶段撰写的应急预案文字完全一致(截图核实)。"
+    },
+    "trip_mode": {
+      "passed": true,
+      "note": "点击'进入旅行模式'按钮后 document.body 获得 trip-mode-open 类,Trip Mode 覆层正确渲染当日路线、小红书/谷歌地图按钮与天气备选方案卡片(截图核实)。"
+    },
+    "trip_day_switch": {
+      "passed": true,
+      "note": "在Trip Mode内点击'03·10.03'日期标签后,页面内容切换为'峡谷绝壁·天梯观瀑'当天行程(恩施大峡谷七星寨→鹿院坪→乡腊小馆),标题与站点均正确更新(截图核实)。"
+    },
+    "map_viewer": {
+      "passed": true,
+      "note": "切换到'路线图'标签后,Day3'总览'地图截图正确内嵌显示,可见真实街道底图、地名标注(板桥镇/恩施市等)、带编号的行程点位(1·恩施大峡谷·七星寨/2·鹿院坪/3·乡腊小馆)与虚线连线及OpenFreeMap署名;点击'点击查看大图'后 document.querySelector('[role=dialog], dialog[open], .map-viewer, .lightbox-open') 命中真实弹出的大图查看器,Escape键可关闭。"
+    }
+  }
+}

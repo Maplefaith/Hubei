@@ -1,0 +1,222 @@
+{
+  "contact_sheet": "/Users/maplefaith/Documents/Dr_phase/260828_270117/261001Hubei/hubei-trip/qa/contact-sheet.png",
+  "columns": 3,
+  "assets": [
+    {
+      "asset_index": 1,
+      "row": 1,
+      "column": 1,
+      "file": "assets/cover.jpg",
+      "place_id": "__cover__",
+      "venue": "武汉·恩施·宜昌"
+    },
+    {
+      "asset_index": 2,
+      "row": 1,
+      "column": 2,
+      "file": "assets/places/huanghelou.jpg",
+      "place_id": "huanghelou",
+      "venue": "黄鹤楼"
+    },
+    {
+      "asset_index": 3,
+      "row": 1,
+      "column": 3,
+      "file": "assets/places/changjiang-daqiao.jpg",
+      "place_id": "changjiang-daqiao",
+      "venue": "武汉长江大桥"
+    },
+    {
+      "asset_index": 4,
+      "row": 2,
+      "column": 1,
+      "file": "assets/places/hubuxiang.jpg",
+      "place_id": "hubuxiang",
+      "venue": "户部巷"
+    },
+    {
+      "asset_index": 5,
+      "row": 2,
+      "column": 2,
+      "file": "assets/places/tanhualin.jpg",
+      "place_id": "tanhualin",
+      "venue": "昙华林"
+    },
+    {
+      "asset_index": 6,
+      "row": 2,
+      "column": 3,
+      "file": "assets/places/jianghanlu.jpg",
+      "place_id": "jianghanlu",
+      "venue": "江汉路步行街"
+    },
+    {
+      "asset_index": 7,
+      "row": 3,
+      "column": 1,
+      "file": "assets/places/enshi-canyon-qixingzhai.jpg",
+      "place_id": "enshi-canyon-qixingzhai",
+      "venue": "恩施大峡谷 · 七星寨"
+    },
+    {
+      "asset_index": 8,
+      "row": 3,
+      "column": 2,
+      "file": "assets/places/suobuya-stone-forest.jpg",
+      "place_id": "suobuya-stone-forest",
+      "venue": "梭布垭石林"
+    },
+    {
+      "asset_index": 9,
+      "row": 3,
+      "column": 3,
+      "file": "assets/places/sanxia-dam.jpg",
+      "place_id": "sanxia-dam",
+      "venue": "三峡大坝旅游区(坛子岭)"
+    },
+    {
+      "asset_index": 10,
+      "row": 4,
+      "column": 1,
+      "file": "assets/places/enshi-tusi-city.jpg",
+      "place_id": "enshi-tusi-city",
+      "venue": "恩施土司城"
+    },
+    {
+      "asset_index": 11,
+      "row": 4,
+      "column": 2,
+      "file": "assets/places/zhouheiya-jianghanlu.jpg",
+      "place_id": "zhouheiya-jianghanlu",
+      "venue": "周黑鸭(江汉路商圈门店)"
+    },
+    {
+      "asset_index": 12,
+      "row": 4,
+      "column": 3,
+      "file": "assets/places/enshi-nverchengxiyi.jpg",
+      "place_id": "enshi-nverchengxiyi",
+      "venue": "恩施土家女儿城 · 非遗文化街"
+    },
+    {
+      "asset_index": 13,
+      "row": 5,
+      "column": 1,
+      "file": "assets/places/liangjiang-night-cruise.jpg",
+      "place_id": "liangjiang-night-cruise",
+      "venue": "两江夜游"
+    },
+    {
+      "asset_index": 14,
+      "row": 5,
+      "column": 2,
+      "file": "assets/places/liangba-yixia-cruise.jpg",
+      "place_id": "liangba-yixia-cruise",
+      "venue": "两坝一峡游船"
+    },
+    {
+      "asset_index": 15,
+      "row": 5,
+      "column": 3,
+      "file": "assets/places/qingjiang-gallery.jpg",
+      "place_id": "qingjiang-gallery",
+      "venue": "清江画廊(宜昌段)"
+    },
+    {
+      "asset_index": 16,
+      "row": 6,
+      "column": 1,
+      "file": "assets/places/sanxia-renjia-half-day.jpg",
+      "place_id": "sanxia-renjia-half-day",
+      "venue": "三峡人家(半天精简版)"
+    },
+    {
+      "asset_index": 17,
+      "row": 6,
+      "column": 2,
+      "file": "assets/places/luyuanping-canyon.jpg",
+      "place_id": "luyuanping-canyon",
+      "venue": "鹿院坪"
+    },
+    {
+      "asset_index": 18,
+      "row": 6,
+      "column": 3,
+      "file": "assets/places/enshi-nverchengs-night.jpg",
+      "place_id": "enshi-nverchengs-night",
+      "venue": "恩施土家女儿城"
+    },
+    {
+      "asset_index": 19,
+      "row": 7,
+      "column": 1,
+      "file": "assets/places/xiangla-xiaoguan.jpg",
+      "place_id": "xiangla-xiaoguan",
+      "venue": "乡腊小馆(奥山店)"
+    },
+    {
+      "asset_index": 20,
+      "row": 7,
+      "column": 2,
+      "file": "assets/places/barentang.jpg",
+      "place_id": "barentang",
+      "venue": "巴人堂"
+    },
+    {
+      "asset_index": 21,
+      "row": 7,
+      "column": 3,
+      "file": "assets/places/huangjia-shefan.jpg",
+      "place_id": "huangjia-shefan",
+      "venue": "黄家社饭(奥山店)"
+    },
+    {
+      "asset_index": 22,
+      "row": 8,
+      "column": 1,
+      "file": "assets/places/cailinji-hubuxiang.jpg",
+      "place_id": "cailinji-hubuxiang",
+      "venue": "蔡林记(户部巷店)"
+    },
+    {
+      "asset_index": 23,
+      "row": 8,
+      "column": 2,
+      "file": "assets/places/sijimei-hubuxiang.jpg",
+      "place_id": "sijimei-hubuxiang",
+      "venue": "四季美汤包(户部巷店)"
+    },
+    {
+      "asset_index": 24,
+      "row": 8,
+      "column": 3,
+      "file": "assets/places/fangweng-cliff-restaurant.jpg",
+      "place_id": "fangweng-cliff-restaurant",
+      "venue": "放翁悬崖餐厅(放翁酒家)"
+    },
+    {
+      "asset_index": 25,
+      "row": 9,
+      "column": 1,
+      "file": "assets/places/chain-zhouheiya.jpg",
+      "place_id": "chain-zhouheiya",
+      "venue": "周黑鸭(连锁门店)"
+    },
+    {
+      "asset_index": 26,
+      "row": 9,
+      "column": 2,
+      "file": "assets/places/chain-zhengongfu.jpg",
+      "place_id": "chain-zhengongfu",
+      "venue": "真功夫(连锁门店)"
+    },
+    {
+      "asset_index": 27,
+      "row": 9,
+      "column": 3,
+      "file": "assets/places/chain-babi.jpg",
+      "place_id": "chain-babi",
+      "venue": "巴比食品(连锁门店)"
+    }
+  ]
+}

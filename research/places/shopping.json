@@ -22,7 +22,8 @@
           "source_identity_note": "Wikimedia Commons 收录的周黑鸭品牌门店实景照片(长沙分店),用于展示该连锁品牌门店的通用视觉形象,非特指江汉路某一具体门店。",
           "media_class": "licensed_photo",
           "original_media_class": "licensed_photo",
-          "visual_subject_type": "place_exterior"
+          "visual_subject_type": "place_exterior",
+          "local_file": "assets/places/zhouheiya-jianghanlu.jpg"
         }
       ],
       "category": "卤味伴手礼",
@@ -55,12 +56,13 @@
       },
       "images": [
         {
-          "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/%E6%81%A9%E6%96%BD_%E5%9C%9F%E5%AE%B6%E5%A5%B3%E5%84%BF%E5%9F%8E_02.jpg",
-          "source_page": "https://commons.wikimedia.org/wiki/File:%E6%81%A9%E6%96%BD_%E5%9C%9F%E5%AE%B6%E5%A5%B3%E5%84%BF%E5%9F%8E_02.jpg",
-          "source_identity_note": "Wikimedia Commons 文件名即为'恩施 土家女儿城 02',画面为女儿城仿古吊脚楼商业街区实景。",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/%E6%81%A9%E6%96%BD_%E5%9C%9F%E5%AE%B6%E5%A5%B3%E5%84%BF%E5%9F%8E_03.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:%E6%81%A9%E6%96%BD_%E5%9C%9F%E5%AE%B6%E5%A5%B3%E5%84%BF%E5%9F%8E_03.jpg",
+          "source_identity_note": "Wikimedia Commons 文件名即为'恩施 土家女儿城 03',画面为女儿城入口石碑与背景土家建筑、临街茶叶特产店铺实景。",
           "media_class": "licensed_photo",
           "original_media_class": "licensed_photo",
-          "visual_subject_type": "place_exterior"
+          "visual_subject_type": "place_exterior",
+          "local_file": "assets/places/enshi-nverchengxiyi.jpg"
         }
       ],
       "category": "土特产与非遗手工艺",

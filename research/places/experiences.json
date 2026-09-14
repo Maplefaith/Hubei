@@ -21,12 +21,13 @@
     },
     "images": [
       {
-        "download_url": "https://dimg04.c-ctrip.com/images/0zg0s12000icl2ekkD16E.jpg",
+        "download_url": "https://dimg04.c-ctrip.com/images/1lo4712000eg5xxvv14C5.jpg",
         "source_page": "https://you.ctrip.com/sight/wuhan145/141517.html",
-        "source_identity_note": "携程攻略'武汉两江游览·夜游长江'词条页面实景首图,画面为夜游长江游船与江岸夜景。",
+        "source_identity_note": "携程'武汉两江游览·夜游长江'词条页面实景大图,画面为夜游船与武汉江岸夜景灯光实拍。",
         "media_class": "real_photo",
         "original_media_class": "real_photo",
-        "visual_subject_type": "experience_scene"
+        "visual_subject_type": "experience_scene",
+        "local_file": "assets/places/liangjiang-night-cruise.jpg"
       }
     ],
     "experience_type": "nightlife",
@@ -56,12 +57,13 @@
     },
     "images": [
       {
-        "download_url": "https://dimg04.c-ctrip.com/images/0zg5x12000icmmvjiD8E5.jpg",
+        "download_url": "https://dimg04.c-ctrip.com/images/0102u120009gg6n09F68F_W_640_10000.jpg",
         "source_page": "https://you.ctrip.com/sight/yichang313/139179.html",
-        "source_identity_note": "携程攻略'交运两坝一峡游船'词条页面实景首图,画面为两坝一峡游船航线实景。",
+        "source_identity_note": "携程'交运两坝一峡游船'词条页面轮播实景图,画面为两坝一峡游轮(三峡旅游号)航行于长江实拍。",
         "media_class": "real_photo",
         "original_media_class": "real_photo",
-        "visual_subject_type": "experience_scene"
+        "visual_subject_type": "experience_scene",
+        "local_file": "assets/places/liangba-yixia-cruise.jpg"
       }
     ],
     "experience_type": "adventure",
@@ -96,7 +98,8 @@
         "source_identity_note": "Wikimedia Commons 文件名即为'Qingjiang Gallery',画面为清江画廊喀斯特峰林与江面实景。",
         "media_class": "licensed_photo",
         "original_media_class": "licensed_photo",
-        "visual_subject_type": "landscape"
+        "visual_subject_type": "landscape",
+        "local_file": "assets/places/qingjiang-gallery.jpg"
       }
     ],
     "experience_type": "nature",
@@ -131,7 +134,8 @@
         "source_identity_note": "Wikimedia Commons 文件名即为'长江三峡最美的地方-三峡人家',画面为三峡人家景区实景。",
         "media_class": "licensed_photo",
         "original_media_class": "licensed_photo",
-        "visual_subject_type": "landscape"
+        "visual_subject_type": "landscape",
+        "local_file": "assets/places/sanxia-renjia-half-day.jpg"
       }
     ],
     "experience_type": "culture",
@@ -161,12 +165,13 @@
     },
     "images": [
       {
-        "download_url": "https://dimg04.c-ctrip.com/images/0zg4412000icl16olF503.jpg",
+        "download_url": "https://dimg04.c-ctrip.com/images/0EQ0t12000sr2chd9AB50_D_180_180.jpg?proc=autoorient",
         "source_page": "https://you.ctrip.com/sight/enshicity1446196/1714458.html",
-        "source_identity_note": "携程攻略'鹿院坪'词条页面实景首图,画面为鹿院坪峡谷/天梯实景。",
+        "source_identity_note": "携程'鹿院坪'词条页面图库实景照片,画面为鹿院坪峡谷谷地全景(可见山谷、建筑与水体),非景区首图但为该地真实航拍/远景照片。",
         "media_class": "real_photo",
         "original_media_class": "real_photo",
-        "visual_subject_type": "landscape"
+        "visual_subject_type": "landscape",
+        "local_file": "assets/places/luyuanping-canyon.jpg"
       }
     ],
     "experience_type": "adventure",
@@ -197,12 +202,13 @@
     },
     "images": [
       {
-        "download_url": "https://dimg04.c-ctrip.com/images/0zg1612000icl567w6055.jpg",
+        "download_url": "https://dimg04.c-ctrip.com/images/1A0u10000000p7y10D07C_W_640_10000.jpg",
         "source_page": "https://you.ctrip.com/sight/enshicity1446196/1414339.html",
-        "source_identity_note": "携程攻略'恩施土家女儿城'词条页面实景首图,画面为女儿城夜间灯会/建筑实景。",
+        "source_identity_note": "携程'恩施土家女儿城'词条页面轮播实景图,画面为女儿城仿古建筑夜间灯光实拍,可见'天下女儿城'牌匾。",
         "media_class": "real_photo",
         "original_media_class": "real_photo",
-        "visual_subject_type": "experience_scene"
+        "visual_subject_type": "experience_scene",
+        "local_file": "assets/places/enshi-nverchengs-night.jpg"
       }
     ],
     "experience_type": "nightlife",

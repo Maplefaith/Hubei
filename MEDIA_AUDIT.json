@@ -1,0 +1,18 @@
+{
+  "media_pass": true,
+  "counts": {
+    "real_photo": 12,
+    "official_photo": 0,
+    "licensed_photo": 14,
+    "generated_editorial": 0,
+    "illustration": 0,
+    "placeholder": 0,
+    "other": 1
+  },
+  "failures": [],
+  "warnings": [
+    "low resolution: assets/places/luyuanping-canyon.jpg (180x180)",
+    "low resolution: assets/places/xiangla-xiaoguan.jpg (212x160)",
+    "low resolution: assets/places/huangjia-shefan.jpg (350x230)"
+  ]
+}

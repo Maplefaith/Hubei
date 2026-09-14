@@ -26,7 +26,8 @@
         "source_identity_note": "360地图'乡腊小馆(奥山店)'商户详情页展示图,画面为该店菜品实拍。",
         "media_class": "real_photo",
         "original_media_class": "real_photo",
-        "visual_subject_type": "dish"
+        "visual_subject_type": "dish",
+        "local_file": "assets/places/xiangla-xiaoguan.jpg"
       }
     ],
     "cuisine": "土家腊味农家菜",
@@ -60,7 +61,8 @@
         "source_identity_note": "携程'巴人堂'词条页面推荐菜图库首图,画面为招牌菜皱椒香辣虾实拍。",
         "media_class": "real_photo",
         "original_media_class": "real_photo",
-        "visual_subject_type": "dish"
+        "visual_subject_type": "dish",
+        "local_file": "assets/places/barentang.jpg"
       }
     ],
     "cuisine": "土家风味河鲜家常菜",
@@ -94,7 +96,8 @@
         "source_identity_note": "携程'黄家社饭(奥山店)'词条页面实拍首图,画面为招牌菜品实拍。",
         "media_class": "real_photo",
         "original_media_class": "real_photo",
-        "visual_subject_type": "dish"
+        "visual_subject_type": "dish",
+        "local_file": "assets/places/huangjia-shefan.jpg"
       }
     ],
     "cuisine": "土家社饭家常菜",
@@ -128,7 +131,8 @@
         "source_identity_note": "携程'蔡林记(户部巷店)'词条页面实拍首图,画面为门店/餐食实拍。",
         "media_class": "real_photo",
         "original_media_class": "real_photo",
-        "visual_subject_type": "dish"
+        "visual_subject_type": "dish",
+        "local_file": "assets/places/cailinji-hubuxiang.jpg"
       }
     ],
     "cuisine": "武汉老字号早点面食",
@@ -162,7 +166,8 @@
         "source_identity_note": "携程'四季美汤包(户部巷店)'词条页面实拍首图,画面为汤包实拍。",
         "media_class": "real_photo",
         "original_media_class": "real_photo",
-        "visual_subject_type": "dish"
+        "visual_subject_type": "dish",
+        "local_file": "assets/places/sijimei-hubuxiang.jpg"
       }
     ],
     "cuisine": "武汉老字号汤包",
@@ -196,7 +201,8 @@
         "source_identity_note": "携程'放翁悬崖餐厅'词条页面实拍首图,画面为溶洞餐厅环境/餐食实拍。",
         "media_class": "real_photo",
         "original_media_class": "real_photo",
-        "visual_subject_type": "dish"
+        "visual_subject_type": "dish",
+        "local_file": "assets/places/fangweng-cliff-restaurant.jpg"
       }
     ],
     "cuisine": "峡江河鲜景观餐厅",
@@ -225,7 +231,8 @@
         "source_identity_note": "Wikimedia Commons 收录的周黑鸭品牌门店实景照片(苏州中心店),用于展示该连锁品牌门店的通用视觉形象。",
         "media_class": "licensed_photo",
         "original_media_class": "licensed_photo",
-        "visual_subject_type": "place_exterior"
+        "visual_subject_type": "place_exterior",
+        "local_file": "assets/places/chain-zhouheiya.jpg"
       }
     ],
     "cuisine": "卤味连锁备选",
@@ -259,7 +266,8 @@
         "source_identity_note": "百度图片搜索'真功夫 门店'结果,画面为真功夫黄色招牌门店实景(李小龙形象LOGO+品牌黄底招牌为该品牌标志性视觉)。",
         "media_class": "licensed_photo",
         "original_media_class": "licensed_photo",
-        "visual_subject_type": "place_exterior"
+        "visual_subject_type": "place_exterior",
+        "local_file": "assets/places/chain-zhengongfu.jpg"
       }
     ],
     "cuisine": "中式快餐连锁备选",
@@ -293,7 +301,8 @@
         "source_identity_note": "Wikimedia Commons 收录的巴比馒头连锁门店实景照片,用于展示该连锁品牌门店的通用视觉形象。",
         "media_class": "licensed_photo",
         "original_media_class": "licensed_photo",
-        "visual_subject_type": "place_exterior"
+        "visual_subject_type": "place_exterior",
+        "local_file": "assets/places/chain-babi.jpg"
       }
     ],
     "cuisine": "早点连锁备选",

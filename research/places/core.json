@@ -27,7 +27,8 @@
           "source_identity_note": "Wikimedia Commons 收录的黄鹤楼实景照片,画面可见楼阁主体与飞檐结构,文件名标注即为武汉黄鹤楼(Kranichpagode 为德语'鹤楼')。",
           "media_class": "licensed_photo",
           "original_media_class": "licensed_photo",
-          "visual_subject_type": "place_exterior"
+          "visual_subject_type": "place_exterior",
+          "local_file": "assets/places/huanghelou.jpg"
         }
       ],
       "duration_minutes": 120,
@@ -60,7 +61,8 @@
           "source_identity_note": "Wikimedia Commons 收录的武汉长江大桥实景照片,画面可见双层公铁两用桥主体结构。",
           "media_class": "licensed_photo",
           "original_media_class": "licensed_photo",
-          "visual_subject_type": "place_exterior"
+          "visual_subject_type": "place_exterior",
+          "local_file": "assets/places/changjiang-daqiao.jpg"
         }
       ],
       "duration_minutes": 45,
@@ -88,12 +90,13 @@
       },
       "images": [
         {
-          "download_url": "https://dimg04.c-ctrip.com/images/0zg1p12000icloo8u89A2.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/0106912000tt94n9g97CC_W_640_10000.jpg",
           "source_page": "https://you.ctrip.com/sight/wuhan145/50969.html",
-          "source_identity_note": "携程攻略户部巷词条页面的实景首图,画面为小吃街巷实景,来自景点详情页图库。",
+          "source_identity_note": "携程'户部巷'词条页面轮播首图(背景图),画面为户部巷入口牌坊实景,悬挂红灯笼、匾额书'户部巷'三字。",
           "media_class": "real_photo",
           "original_media_class": "real_photo",
-          "visual_subject_type": "place_exterior"
+          "visual_subject_type": "place_exterior",
+          "local_file": "assets/places/hubuxiang.jpg"
         }
       ],
       "duration_minutes": 90,
@@ -126,7 +129,8 @@
           "source_identity_note": "Wikimedia Commons 文件名即为'昙华林小学',画面为昙华林历史文化街区内的实景建筑照片。",
           "media_class": "licensed_photo",
           "original_media_class": "licensed_photo",
-          "visual_subject_type": "place_exterior"
+          "visual_subject_type": "place_exterior",
+          "local_file": "assets/places/tanhualin.jpg"
         }
       ],
       "duration_minutes": 150,
@@ -154,12 +158,13 @@
       },
       "images": [
         {
-          "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/%E6%B1%9F%E6%B1%89%E8%B7%AF%E9%9B%95%E5%A1%91.jpg",
-          "source_page": "https://commons.wikimedia.org/wiki/File:%E6%B1%9F%E6%B1%89%E8%B7%AF%E9%9B%95%E5%A1%91.jpg",
-          "source_identity_note": "Wikimedia Commons 文件名即为'江汉路雕塑',画面为江汉路步行街街道实景与街头雕塑。",
-          "media_class": "licensed_photo",
-          "original_media_class": "licensed_photo",
-          "visual_subject_type": "place_exterior"
+          "download_url": "https://dimg04.c-ctrip.com/images/01A28120008mxdy7jA14D_W_640_10000.jpg",
+          "source_page": "https://you.ctrip.com/sight/wuhan145/50966.html",
+          "source_identity_note": "携程'武汉江汉路步行街'词条页面轮播实景图,画面为江汉关钟楼夜景与步行街车流实拍,是江汉路的标志性建筑。",
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "visual_subject_type": "place_exterior",
+          "local_file": "assets/places/jianghanlu.jpg"
         }
       ],
       "duration_minutes": 150,
@@ -192,7 +197,8 @@
           "source_identity_note": "Wikimedia Commons 收录的恩施大峡谷实景照片,画面为喀斯特峡谷绝壁与栈道地貌。",
           "media_class": "licensed_photo",
           "original_media_class": "licensed_photo",
-          "visual_subject_type": "landscape"
+          "visual_subject_type": "landscape",
+          "local_file": "assets/places/enshi-canyon-qixingzhai.jpg"
         }
       ],
       "duration_minutes": 240,
@@ -225,7 +231,8 @@
           "source_identity_note": "Wikimedia Commons 文件名即为'Suobuya Stone Forest',画面为梭布垭石林喀斯特石柱地貌实景。",
           "media_class": "licensed_photo",
           "original_media_class": "licensed_photo",
-          "visual_subject_type": "landscape"
+          "visual_subject_type": "landscape",
+          "local_file": "assets/places/suobuya-stone-forest.jpg"
         }
       ],
       "duration_minutes": 210,
@@ -258,7 +265,8 @@
           "source_identity_note": "Wikimedia Commons 收录的三峡大坝实景照片,画面为大坝坝体与船闸结构全貌。",
           "media_class": "licensed_photo",
           "original_media_class": "licensed_photo",
-          "visual_subject_type": "landscape"
+          "visual_subject_type": "landscape",
+          "local_file": "assets/places/sanxia-dam.jpg"
         }
       ],
       "duration_minutes": 150,
@@ -291,7 +299,8 @@
           "source_identity_note": "Wikimedia Commons 文件名即为'恩施 恩施土司城 01',画面为土司城仿古建筑群实景。",
           "media_class": "licensed_photo",
           "original_media_class": "licensed_photo",
-          "visual_subject_type": "place_exterior"
+          "visual_subject_type": "place_exterior",
+          "local_file": "assets/places/enshi-tusi-city.jpg"
         }
       ],
       "duration_minutes": 120,

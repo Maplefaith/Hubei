@@ -44,7 +44,7 @@
   "canonical_template_hash_verified": true,
   "canonical_index_sha256": "12deadd5d8dac043e52ea454a530ca16903265584f55ad11ee2d1f44c0f7e4a2",
   "rendered_index_sha256": "49930999c2fd6a04cd1e7c852569e28bea15e2166c2786fc0dac16280b616844",
-  "profile_sha256": "10293e65cc7bc7a38a69e6d7e6b788d34d8014cae39e7e68f76b3a9d26efece0",
+  "profile_sha256": "bd0809b2c32db6c387f65014cf78339c739f64affac1958b6efca0fe4ce6fdda",
   "bindings_sha256": "d25b632ffd27160dc762179d7adc30f79342abdce5ec7d2a2f9db35a9da94c8b",
   "custom_page_builder_detected": false,
   "status": "rendered-workbench-still-requires-audit-and-browser-qa"
